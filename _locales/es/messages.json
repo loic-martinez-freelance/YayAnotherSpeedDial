@@ -1,0 +1,738 @@
+{
+  "extensionName": {
+    "message": "Yay! Another Speed dial!",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Un addon con página de accessos directos que se enfoca en verse bien y ser altamente configurable pero facil de usar.",
+    "description": ""
+  },
+  "speeddialAdd": {
+    "message": "Agregar marcador",
+    "description": ""
+  },
+  "defaultTab": {
+    "message": "Nueva pestaña",
+    "description": ""
+  },
+  "settings": {
+    "message": "Configuración",
+    "description": ""
+  },
+  "tabSettings": {
+    "message": "Configurar Pestaña",
+    "description": ""
+  },
+  "inputRenameTab": {
+    "message": "Cambiar nombre de pestaña",
+    "description": ""
+  },
+  "inputChangeColor": {
+    "message": "Color de pestaña",
+    "description": ""
+  },
+  "inputChangeColorTxt": {
+    "message": "Cambiar color",
+    "description": ""
+  },
+  "deleteTab": {
+    "message": "Quitar pestaña",
+    "description": ""
+  },
+  "deleteTabPhrase": {
+    "message": "¿Realmente desea borrar esta pestaña y todos sus marcadores?",
+    "description": ""
+  },
+  "dialSettings": {
+    "message": "Modificar marcador",
+    "description": ""
+  },
+  "deleteDial": {
+    "message": "Borrar marcador",
+    "description": ""
+  },
+  "deleteDialPhrase": {
+    "message": "¿Realmente desea borrar este marcador?",
+    "description": ""
+  },
+  "save": {
+    "message": "Guardar",
+    "description": ""
+  },
+  "cancel": {
+    "message": "Cancelar",
+    "description": ""
+  },
+  "inputDialName": {
+    "message": "Nombre del marcador",
+    "description": ""
+  },
+  "inputDialURL": {
+    "message": "Link del marcador",
+    "description": ""
+  },
+  "imageDialType": {
+    "message": "Imagen",
+    "description": ""
+  },
+  "imageDialTypeAuto": {
+    "message": "Automático",
+    "description": ""
+  },
+  "imageDialTypeManual": {
+    "message": "Desde un link",
+    "description": ""
+  },
+  "imageDialTypeScreen": {
+    "message": "Un screenshot",
+    "description": ""
+  },
+  "contextualAddTo": {
+    "message": "Agregar esta página a un marcador",
+    "description": ""
+  },
+  "sendTo": {
+    "message": "Enviar a otra pestaña...",
+    "description": ""
+  },
+  "themeEditor": {
+    "message": "Editor de tema",
+    "description": ""
+  },
+  "close": {
+    "message": "Cerrar",
+    "description": ""
+  },
+  "back": {
+    "message": "Atras",
+    "description": ""
+  },
+  "importWarning": {
+    "message": "Atención: Importar reemplazara toda la configuracion las pestañas y los marcadores ¿Desea continuar?",
+    "description": ""
+  },
+  "resetWarning": {
+    "message": "Atención: Toda la configuración, pestañas y marcadores serán borrados. ¿Desea contiuar?",
+    "description": ""
+  },
+  "applyPexels": {
+    "message": "Aplicar imagen de PEXELS",
+    "description": ""
+  },
+  "applyTheme": {
+    "message": "Aplicar tema",
+    "description": ""
+  },
+  "openShareTheme": {
+    "message": "Compartir mi tema",
+    "description": ""
+  },
+  "searchTheme": {
+    "message": "Buscar un tema",
+    "description": ""
+  },
+  "by": {
+    "message": "por",
+    "description": ""
+  },
+  "applied": {
+    "message": "Aplicado",
+    "description": ""
+  },
+  "times": {
+    "message": "veces",
+    "description": ""
+  },
+  "backup": {
+    "message": "Respaldo",
+    "description": ""
+  },
+  "sync": {
+    "message": "Sincronizar",
+    "description": ""
+  },
+  "reset": {
+    "message": "Restablecer Configuración",
+    "description": ""
+  },
+  "syncwith": {
+    "message": "Sincronizar con mi cuenta",
+    "description": ""
+  },
+  "usesync": {
+    "message": "Usar sincronizar con mi cuenta de Firefox",
+    "description": ""
+  },
+  "nomobile": {
+    "message": "(No funciona en la version de movil de Firefox)",
+    "description": ""
+  },
+  "exportall": {
+    "message": "Exportar todo",
+    "description": ""
+  },
+  "importall": {
+    "message": "Importar todo",
+    "description": ""
+  },
+  "createFromBookmarks": {
+    "message": "Crear una pestaña usando una carpeta de marcadores del navegador.",
+    "description": ""
+  },
+  "selectFolder": {
+    "message": "Selecciona una carpeta y luego valida tu elección",
+    "description": ""
+  },
+  "create": {
+    "message": "Crear",
+    "description": ""
+  },
+  "importFrom": {
+    "message": "Importar desde otra fuente",
+    "description": ""
+  },
+  "importFromAnother": {
+    "message": "Importar tus pestañas y marcadores desde otro Speed Dial",
+    "description": ""
+  },
+  "importFromSP2": {
+    "message": "Importar de Speed Dial 2",
+    "description": ""
+  },
+  "page": {
+    "message": "Página",
+    "description": ""
+  },
+  "bookmark": {
+    "message": "Marcador",
+    "description": ""
+  },
+  "animations": {
+    "message": "Animaciones",
+    "description": ""
+  },
+  "advanced": {
+    "message": "Avanzado",
+    "description": ""
+  },
+  "themeGallery": {
+    "message": "Galeria de temas",
+    "description": ""
+  },
+  "activateCustom": {
+    "message": "Activar CSS personalizado",
+    "description": ""
+  },
+  "addOwnRules": {
+    "message": "Agregar tus propias reglas sobrescribirá las existentes..",
+    "description": ""
+  },
+  "other": {
+    "message": "Otro",
+    "description": ""
+  },
+  "otherSettings": {
+    "message": "Otras opciones",
+    "description": ""
+  },
+  "showAdd": {
+    "message": "Mostrar botón de agregar marcador",
+    "description": ""
+  },
+  "autoColor": {
+    "message": "Activar color automático del texto",
+    "description": ""
+  },
+  "autoColorNotice": {
+    "message": "En algunos casos el color del texto se elegirá automáticamente dependiendo del color del fondo.",
+    "description": ""
+  },
+  "manageAnimations": {
+    "message": "Administrar Animaciones",
+    "description": ""
+  },
+  "enterAnimations": {
+    "message": "Animación de los marcadores al entrar",
+    "description": ""
+  },
+  "none": {
+    "message": "Ninguna",
+    "description": ""
+  },
+  "fade": {
+    "message": "Desvanecer",
+    "description": ""
+  },
+  "zoom": {
+    "message": "Acercamiento",
+    "description": ""
+  },
+  "bounce": {
+    "message": "Rebote",
+    "description": ""
+  },
+  "rotate": {
+    "message": "Rotación",
+    "description": ""
+  },
+  "popup": {
+    "message": "Popup",
+    "description": ""
+  },
+  "enterDelay": {
+    "message": "Tiempo de espera entre marcadores",
+    "description": ""
+  },
+  "seconds": {
+    "message": "segundos",
+    "description": ""
+  },
+  "exitAnimations": {
+    "message": "Animación de marcadores al salir",
+    "description": ""
+  },
+  "hoverAnimations": {
+    "message": "Animación de marcadores al poner puntero encima",
+    "description": ""
+  },
+  "opacity": {
+    "message": "Opacidad",
+    "description": ""
+  },
+  "grayscale": {
+    "message": "Escala de grices",
+    "description": ""
+  },
+  "border": {
+    "message": "Borde",
+    "description": ""
+  },
+  "zoomgrayscale": {
+    "message": "Zoom / Escala de grices",
+    "description": ""
+  },
+  "zoomopacity": {
+    "message": "Zoom / Opacidad",
+    "description": ""
+  },
+  "customiseBookmarks": {
+    "message": "Personalizar marcadores",
+    "description": ""
+  },
+  "shape": {
+    "message": "Forma",
+    "description": ""
+  },
+  "width": {
+    "message": "Ancho",
+    "description": ""
+  },
+  "height": {
+    "message": "Alto",
+    "description": ""
+  },
+  "padding": {
+    "message": "Separación",
+    "description": ""
+  },
+  "activateAnimations": {
+    "message": "Activar animaciones",
+    "description": ""
+  },
+  "radius": {
+    "message": "Radio",
+    "description": ""
+  },
+  "bookbg": {
+    "message": "Fondo",
+    "description": ""
+  },
+  "color": {
+    "message": "Color",
+    "description": ""
+  },
+  "size": {
+    "message": "Tamaño",
+    "description": ""
+  },
+  "position": {
+    "message": "Posición",
+    "description": ""
+  },
+  "rowWidth": {
+    "message": " Ancho de la columna",
+    "description": ""
+  },
+  "marginBetweenBook": {
+    "message": "Margen entre marcadores",
+    "description": ""
+  },
+  "marginBetweenRows": {
+    "message": "Margen entre columnas",
+    "description": ""
+  },
+  "customizePage": {
+    "message": "Personaliza tu página de inicio",
+    "description": ""
+  },
+  "wallpaper": {
+    "message": "Fondo",
+    "description": ""
+  },
+  "image": {
+    "message": "Imágen",
+    "description": ""
+  },
+  "searchInPexels": {
+    "message": "Abrir galería PEXELS",
+    "description": ""
+  },
+  "navbar": {
+    "message": "Barra de navegación",
+    "description": ""
+  },
+  "backgroundColor": {
+    "message": "Color de fondo",
+    "description": ""
+  },
+  "selectedTabColor": {
+    "message": "Color de la pestaña seleccionada",
+    "description": ""
+  },
+  "hoverTabColor": {
+    "message": "Color de la pestaña con el puntero encima",
+    "description": ""
+  },
+  "textColor": {
+    "message": "Color del texto",
+    "description": ""
+  },
+  "selectedTabTextColor": {
+    "message": "Color del texto de la pestaña seleccionada",
+    "description": ""
+  },
+  "hoverTabTextColor": {
+    "message": "Color del texto de la pestaña con el puntero encima",
+    "description": ""
+  },
+  "enableAnimations": {
+    "message": "Habilitar animaciones",
+    "description": ""
+  },
+  "linkToImage": {
+    "message": "Link de tu Imagen de Fondo",
+    "description": ""
+  },
+  "search_image": {
+    "message": "Buscar imagen",
+    "description": ""
+  },
+  "openInTab": {
+    "message": "Abrir marcadores en nueva pestaña",
+    "description": ""
+  },
+  "contribute": {
+    "message": "¡Ayúdame!",
+    "description": ""
+  },
+  "enterNName": {
+    "message": "Tu nombre",
+    "description": ""
+  },
+  "noNName": {
+    "message": "Deja en blanco si no quieres aparecer en la lista de donadores",
+    "description": ""
+  },
+  "whydonate": {
+    "message": "<h5>¿Por qué donar?</h5>Cada donación me motiva a continuar el desarrollo de este complemento pero además: <br> - Permite que se añadan nuevas funcionalidades<br> - Cubre costos del servidor<br> - Permite que se añadan nuevos temas",
+    "description": ""
+  },
+  "suggestions": {
+    "message": "Contáctame",
+    "description": ""
+  },
+  "suggestionsText": {
+    "message": "Si deseas un nueva funcionalidad, un tema en específico, ayudar a traducir o si sólo deseas darme tu opinion no dudes en enviarme un mensaje escribiendo debajo.",
+    "description": ""
+  },
+  "yourMessage": {
+    "message": "Tu mensaje",
+    "description": ""
+  },
+  "yourEmail": {
+    "message": "Tu email",
+    "description": ""
+  },
+  "send": {
+    "message": "Enviar",
+    "description": ""
+  },
+  "suggestionOk": {
+    "message": "<div class='text-success'>¡ Gracias ! Tu mensaje ha sido enviado</div>",
+    "description": ""
+  },
+  "suggestionSpam": {
+    "message": "<div class='text-danger'>Espera 5 minutos antes de enviar un mensaje nuevo.</div>",
+    "description": ""
+  },
+  "discardChanges": {
+    "message": "¿Deseas guardar los cambios anes de cerrar el editor?",
+    "description": ""
+  },
+  "yes": {
+    "message": "Si",
+    "description": ""
+  },
+  "no": {
+    "message": "No",
+    "description": ""
+  },
+  "bestContributors": {
+    "message": "Mayores donantes",
+    "description": ""
+  },
+  "freeAmount": {
+    "message": "Suma libre",
+    "description": ""
+  },
+  "username": {
+    "message": "Email",
+    "description": ""
+  },
+  "password": {
+    "message": "Contraseña",
+    "description": ""
+  },
+  "createaccount": {
+    "message": "Crear cuenta",
+    "description": ""
+  },
+  "login": {
+    "message": "Iniciar sesión",
+    "description": ""
+  },
+  "forgottenpass": {
+    "message": "Cambiar contraseña",
+    "description": ""
+  },
+  "syncDesc": {
+    "message": "Para sincronizar tu información entre lugares distintos, primero inicia sesión por favor.<br> Si no posees una cuenta, por favor pon un mail y contraseña y aprieta el botoón Crear cuenta.",
+    "description": ""
+  },
+  "loginExists": {
+    "message": "<div class='text-danger'>Esta cuenta ya existe.</div>",
+    "description": ""
+  },
+  "enterEmail": {
+    "message": "<div class='text-danger'>Por favor ingrese un email válido.</div>",
+    "description": ""
+  },
+  "enterPassword": {
+    "message": "<div class='text-danger'>Por favor ingrese una contraseña.</div>",
+    "description": ""
+  },
+  "wrongAuth": {
+    "message": "<div class='text-danger'>Usuario o contraseña incorrectas.</div>",
+    "description": ""
+  },
+  "loggedAs": {
+    "message": "Logueado como",
+    "description": ""
+  },
+  "disconnect": {
+    "message": "Desconectarse",
+    "description": ""
+  },
+  "leaveempty": {
+    "message": "Deja en blanco para no combiarla",
+    "description": ""
+  },
+  "updateAccount": {
+    "message": "Actualiza tu cuenta",
+    "description": ""
+  },
+  "newLogin": {
+    "message": "Nuevo nombre de usuario",
+    "description": ""
+  },
+  "newPassword": {
+    "message": "Nueva contraseña",
+    "description": ""
+  },
+  "actualPassword": {
+    "message": "Confirmar usando la contraseña actual",
+    "description": ""
+  },
+  "wrongold": {
+    "message": "<div class='text-danger'>La contraseña actual no es correcta.</div>",
+    "description": ""
+  },
+  "accountUpdated": {
+    "message": "<div class='text-success'>Tu cuenta ha sido correctamente actualizada.</div>",
+    "description": ""
+  },
+  "credits": {
+    "message": "Acerca de",
+    "description": ""
+  },
+  "showName": {
+    "message": "Mostrar nombre del marcador",
+    "description": ""
+  },
+  "search": {
+    "message": "Buscar marcador",
+    "description": ""
+  },
+  "next": {
+    "message": "Siguiente",
+    "description": ""
+  },
+  "prev": {
+    "message": "Anterior",
+    "description": ""
+  },
+  "showGoogle": {
+    "message": "Mostrar barra de búsqueda",
+    "description": ""
+  },
+  "searchGoogle": {
+    "message": "Buscar en la web usando:",
+    "description": ""
+  },
+  "newVersion": {
+    "message": "¡Nueva verión!",
+    "description": ""
+  },
+  "seeWhatChanged": {
+    "message": "Ver cambios",
+    "description": ""
+  },
+  "changessince": {
+    "message": "Cambios desde la versión anterior",
+    "description": ""
+  },
+  "thanksto": {
+    "message": "Gracias a",
+    "description": ""
+  },
+  "imageDialTypescreenshot": {
+    "message": "screenshot",
+    "description": ""
+  },
+  "addblur": {
+    "message": "Difuminar",
+    "description": ""
+  },
+  "adddesaturate": {
+    "message": "Saturación",
+    "description": ""
+  },
+  "fineTune": {
+    "message": "Ajustar preferencias del tema manualmente",
+    "description": ""
+  },
+  "screenshot_notice": {
+    "message": "Por favor haz click en el acceso directo y espera a que cargue la pagina por completo para que se tome la screenshot.",
+    "description": ""
+  },
+  "local_file": {
+    "message": "Un archivo de mi computadora",
+    "description": ""
+  },
+  "reloadDial": {
+    "message": "Recargar screenshot",
+    "description": ""
+  },
+  "screenshotChanged": {
+    "message": "<b>Hello !</b> <br><br> El sistema de screenshot ha cambiado en esta versión. Los screenshots son tomados por el navegador y funcionan en cualquier sitio web.<br><br>El screenshot actual puede verse en blanco pero será actualizado en cuanto visite la página. <br><br>Si posee una cuenta para sincronización puede deshabilitar la sincronizacion de screenshot en opciones.<br><br><div style='text-align:right'>Loïc</div>",
+    "description": ""
+  },
+  "syncOptions": {
+    "message": "Opciones de sincronización",
+    "description": ""
+  },
+  "allowSyncscreenshot": {
+    "message": "Sincroniza imágenes y screenshots",
+    "description": ""
+  },
+  "showLastTab": {
+    "message": "Mostrar la ultima pestaña seleccionada al iniciar",
+    "description": ""
+  },
+  "defaultFolder": {
+    "message": "Imagen de carpeta por defecto",
+    "description": ""
+  },
+  "addFolder": {
+    "message": "Añadir carpeta",
+    "description": ""
+  },
+  "sendToTop": {
+    "message": "Enviar carpeta al inicio",
+    "description": ""
+  },
+  "refreshForThisTab": {
+    "message": "Recargar screenshot para este accesso directo",
+    "description": ""
+  },
+  "help": {
+    "message": "Ayuda",
+    "description": ""
+  },
+  "general": {
+    "message": "General",
+    "description": ""
+  },
+  "openAllDials": {
+    "message": "Abrir todos los marcadores de esta pestaña",
+    "description": ""
+  },
+  "openWallet": {
+    "message": "Abrir cartera",
+    "description": ""
+  },
+  "changeAllImageType": {
+    "message": "Cambiar todos los tipos de imágen para esta pestaña",
+    "description": ""
+  },
+  "donotchange": {
+    "message": "No cambiar",
+    "description": ""
+  },
+  "widthInPercent": {
+    "message": "Ancho porcentual",
+    "description": ""
+  },
+  "widthInPixel": {
+    "message": "Ancho en pixeles (puede fallar)",
+    "description": ""
+  },
+  "dialtext": {
+    "message": "Nombre del marcador",
+    "description": ""
+  },
+  "dialtextcolor": {
+    "message": "Color del texto",
+    "description": ""
+  },
+  "dialstextbgcolor": {
+    "message": "Color de fondo",
+    "description": ""
+  },
+  "addBlank": {
+    "message": "Espacio en blanco",
+    "description": ""
+  },
+  "importFromOldsd": {
+    "message": "Speeddial.uworks.net",
+    "description": ""
+  },
+  "openInBackground": {
+    "message": "Abrir en pestaña en el fondo",
+    "description": ""
+  },
+  "pageHeaderAutoHide": {
+    "message": "Esconder barra de pestañas (mostrarla cuando se acerca el mouse sólamente)",
+    "description": ""
+  }
+}

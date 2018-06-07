@@ -1,0 +1,738 @@
+{
+  "extensionName": {
+    "message": "Yay! Another Speed dial!",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Un superbe Speed Dial, complètement personnalisable, concentré sur le style et la simplicité.",
+    "description": ""
+  },
+  "speeddialAdd": {
+    "message": "Ajouter une vignette",
+    "description": ""
+  },
+  "defaultTab": {
+    "message": "Nouvel onglet",
+    "description": ""
+  },
+  "settings": {
+    "message": "Paramètres",
+    "description": ""
+  },
+  "tabSettings": {
+    "message": "Paramètres de l'onglet",
+    "description": ""
+  },
+  "inputRenameTab": {
+    "message": "Renommer l'onglet",
+    "description": ""
+  },
+  "inputChangeColor": {
+    "message": "Couleur de l'onglet",
+    "description": ""
+  },
+  "inputChangeColorTxt": {
+    "message": "Changer la couleur",
+    "description": ""
+  },
+  "deleteTab": {
+    "message": "Supprimer l'onglet",
+    "description": ""
+  },
+  "deleteTabPhrase": {
+    "message": "Voulez-vous vraiment supprimer cet onglet ?",
+    "description": ""
+  },
+  "dialSettings": {
+    "message": "Modifier la vignette",
+    "description": ""
+  },
+  "deleteDial": {
+    "message": "Supprimer la vignette",
+    "description": ""
+  },
+  "deleteDialPhrase": {
+    "message": "Voulez-vous vraiment supprimer cette vignette ?",
+    "description": ""
+  },
+  "save": {
+    "message": "Enregistrer",
+    "description": ""
+  },
+  "cancel": {
+    "message": "Annuler",
+    "description": ""
+  },
+  "inputDialName": {
+    "message": "Nom de la vignette",
+    "description": ""
+  },
+  "inputDialURL": {
+    "message": "Lien de la vignette",
+    "description": ""
+  },
+  "imageDialType": {
+    "message": "Image",
+    "description": ""
+  },
+  "imageDialTypeAuto": {
+    "message": "Automatique",
+    "description": ""
+  },
+  "imageDialTypeManual": {
+    "message": "A partir d'un lien",
+    "description": ""
+  },
+  "imageDialTypeScreen": {
+    "message": "Une capture d'écran",
+    "description": ""
+  },
+  "contextualAddTo": {
+    "message": "Ajouter la page à l'onglet",
+    "description": ""
+  },
+  "sendTo": {
+    "message": "Envoyer vers l'onglet...",
+    "description": ""
+  },
+  "themeEditor": {
+    "message": "Editeur de thème",
+    "description": ""
+  },
+  "close": {
+    "message": "Fermer",
+    "description": ""
+  },
+  "back": {
+    "message": "Retour",
+    "description": ""
+  },
+  "importWarning": {
+    "message": "Attention, l'import va remplacer tous vos réglages, onglets, bookmarks actuels. Continuer ?",
+    "description": ""
+  },
+  "resetWarning": {
+    "message": "Attention, tous vos réglages, onglets, bookmarks vont être supprimés. Continuer ?",
+    "description": ""
+  },
+  "applyPexels": {
+    "message": "Appliquer l'image Pexels",
+    "description": ""
+  },
+  "applyTheme": {
+    "message": "Appliquer le thème",
+    "description": ""
+  },
+  "openShareTheme": {
+    "message": "Partager mon thème",
+    "description": ""
+  },
+  "searchTheme": {
+    "message": "Rechercher un thème",
+    "description": ""
+  },
+  "by": {
+    "message": "par",
+    "description": ""
+  },
+  "applied": {
+    "message": "Appliqué",
+    "description": ""
+  },
+  "times": {
+    "message": "fois",
+    "description": ""
+  },
+  "backup": {
+    "message": "Sauvegarde",
+    "description": ""
+  },
+  "sync": {
+    "message": "Synchronisation",
+    "description": ""
+  },
+  "reset": {
+    "message": "Remise à zero",
+    "description": ""
+  },
+  "syncwith": {
+    "message": "Synchronisation avec mon compte",
+    "description": ""
+  },
+  "usesync": {
+    "message": "Utiliser la synchronisation avec mon profil Firefox",
+    "description": ""
+  },
+  "nomobile": {
+    "message": "(Ne fonctionne pas sur la version mobile de Firefox)",
+    "description": ""
+  },
+  "exportall": {
+    "message": "Exporter mes réglages",
+    "description": ""
+  },
+  "importall": {
+    "message": "Importer mes réglages",
+    "description": ""
+  },
+  "createFromBookmarks": {
+    "message": "Créer un onglet à partir d'un dossier des bookmarks de mon navigateur",
+    "description": ""
+  },
+  "selectFolder": {
+    "message": "Sélectionnez l'un de vos dossiers puis validez",
+    "description": ""
+  },
+  "create": {
+    "message": "Créer",
+    "description": ""
+  },
+  "importFrom": {
+    "message": "Importer depuis une autre source",
+    "description": ""
+  },
+  "importFromAnother": {
+    "message": "Importez vos onglets et vos bookmarks depuis la sauvegarde d'un autre Speed Dial.",
+    "description": ""
+  },
+  "importFromSP2": {
+    "message": "Importer depuis Speed Dial 2",
+    "description": ""
+  },
+  "page": {
+    "message": "Page",
+    "description": ""
+  },
+  "bookmark": {
+    "message": "Vignette",
+    "description": ""
+  },
+  "animations": {
+    "message": "Animations",
+    "description": ""
+  },
+  "advanced": {
+    "message": "Avancé",
+    "description": ""
+  },
+  "themeGallery": {
+    "message": "Galerie de Thèmes",
+    "description": ""
+  },
+  "activateCustom": {
+    "message": "Activer le css personnalisé",
+    "description": ""
+  },
+  "addOwnRules": {
+    "message": "Ajoutez vos propres règles CSS ou bien surchargez les règles existantes",
+    "description": ""
+  },
+  "other": {
+    "message": "Autres",
+    "description": ""
+  },
+  "otherSettings": {
+    "message": "Autres réglages",
+    "description": ""
+  },
+  "showAdd": {
+    "message": "Montrer le bouton d'ajout d'une vignette",
+    "description": ""
+  },
+  "autoColor": {
+    "message": "Couleur du texte automatique",
+    "description": ""
+  },
+  "autoColorNotice": {
+    "message": "Pour certain textes, la couleur sera automatique en fonction de la couleur de fond",
+    "description": ""
+  },
+  "manageAnimations": {
+    "message": "Gestion des animations",
+    "description": ""
+  },
+  "enterAnimations": {
+    "message": "Animation d'apparition des vignettes",
+    "description": ""
+  },
+  "none": {
+    "message": "Aucune",
+    "description": ""
+  },
+  "fade": {
+    "message": "Fondu",
+    "description": ""
+  },
+  "zoom": {
+    "message": "Zoom",
+    "description": ""
+  },
+  "bounce": {
+    "message": "Rebond",
+    "description": ""
+  },
+  "rotate": {
+    "message": "Rotation",
+    "description": ""
+  },
+  "popup": {
+    "message": "Surgir",
+    "description": ""
+  },
+  "enterDelay": {
+    "message": "Délai d'apparition entre chaque vignette",
+    "description": ""
+  },
+  "seconds": {
+    "message": "secondes",
+    "description": ""
+  },
+  "exitAnimations": {
+    "message": "Animation de disparition des vignettes",
+    "description": ""
+  },
+  "hoverAnimations": {
+    "message": "Animation de survol des vignettes",
+    "description": ""
+  },
+  "opacity": {
+    "message": "Opacité",
+    "description": ""
+  },
+  "grayscale": {
+    "message": "Noir et blanc",
+    "description": ""
+  },
+  "border": {
+    "message": "Bordure",
+    "description": ""
+  },
+  "zoomgrayscale": {
+    "message": "Zoom / Noir et blanc",
+    "description": ""
+  },
+  "zoomopacity": {
+    "message": "Zoom / Opacité",
+    "description": ""
+  },
+  "customiseBookmarks": {
+    "message": "Personnalisation des vignettes",
+    "description": ""
+  },
+  "shape": {
+    "message": "Forme",
+    "description": ""
+  },
+  "width": {
+    "message": "Largeur",
+    "description": ""
+  },
+  "height": {
+    "message": "Hauteur",
+    "description": ""
+  },
+  "padding": {
+    "message": "Marge interne",
+    "description": ""
+  },
+  "activateAnimations": {
+    "message": "Activer les animations",
+    "description": ""
+  },
+  "radius": {
+    "message": "Arrondi",
+    "description": ""
+  },
+  "bookbg": {
+    "message": "Fond",
+    "description": ""
+  },
+  "color": {
+    "message": "Couleur",
+    "description": ""
+  },
+  "size": {
+    "message": "Taille",
+    "description": ""
+  },
+  "position": {
+    "message": "Disposition",
+    "description": ""
+  },
+  "rowWidth": {
+    "message": "Largeur d'une ligne",
+    "description": ""
+  },
+  "marginBetweenBook": {
+    "message": "Marge entre les vignettes",
+    "description": ""
+  },
+  "marginBetweenRows": {
+    "message": "Marge entre les lignes",
+    "description": ""
+  },
+  "customizePage": {
+    "message": "Personnalisation de votre page d'accueil",
+    "description": ""
+  },
+  "wallpaper": {
+    "message": "Fond d'écran",
+    "description": ""
+  },
+  "image": {
+    "message": "Image",
+    "description": ""
+  },
+  "searchInPexels": {
+    "message": "Ouvrir la Galerie PEXELS",
+    "description": ""
+  },
+  "navbar": {
+    "message": "Barre de navigation",
+    "description": ""
+  },
+  "backgroundColor": {
+    "message": "Couleur de fond",
+    "description": ""
+  },
+  "selectedTabColor": {
+    "message": "Couleur d'un onglet séléctionné",
+    "description": ""
+  },
+  "hoverTabColor": {
+    "message": "Couleur d'un onglet au survol",
+    "description": ""
+  },
+  "textColor": {
+    "message": "Couleur du texte",
+    "description": ""
+  },
+  "selectedTabTextColor": {
+    "message": "Couleur du texte d'un onglet séléctionné",
+    "description": ""
+  },
+  "hoverTabTextColor": {
+    "message": "Couleur du texte d'un onglet au survol",
+    "description": ""
+  },
+  "enableAnimations": {
+    "message": "Activer les animations",
+    "description": ""
+  },
+  "linkToImage": {
+    "message": "Lien vers votre fond d'écran",
+    "description": ""
+  },
+  "search_image": {
+    "message": "Rechercher une image",
+    "description": ""
+  },
+  "openInTab": {
+    "message": "Ouvrir les bookmarks dans un autre onglet du navigateur",
+    "description": ""
+  },
+  "contribute": {
+    "message": "Contribuer",
+    "description": ""
+  },
+  "enterNName": {
+    "message": "Entrez un pseudo",
+    "description": ""
+  },
+  "noNName": {
+    "message": "Laissez vide pour ne pas apparaitre dans la liste des meilleurs contributeurs",
+    "description": ""
+  },
+  "whydonate": {
+    "message": "<h5>Pourquoi contribuer ?</h5>Chaque contribution sera une motivation pour continuer le développement de cette extension. Mais également : <br> - Apporter de nouvelles fonctionnalités<br> - Couvrir les dépenses liées au serveur<br> - Créer régulièrement de nouveaux thèmes",
+    "description": ""
+  },
+  "suggestions": {
+    "message": "Contactez moi",
+    "description": ""
+  },
+  "suggestionsText": {
+    "message": "Si vous voulez voir arriver une fonctionnalité, un thème particulier, une traduction de l'extension, ou simplement donner votre avis, n'hesitez pas à m'envoyer un message par le formulaire ci-dessous.",
+    "description": ""
+  },
+  "yourMessage": {
+    "message": "Votre message",
+    "description": ""
+  },
+  "yourEmail": {
+    "message": "Votre Email",
+    "description": ""
+  },
+  "send": {
+    "message": "Envoyer",
+    "description": ""
+  },
+  "suggestionOk": {
+    "message": "<div class='text-success'>Merci ! Votre message a bien été envoyé</div>",
+    "description": ""
+  },
+  "suggestionSpam": {
+    "message": "<div class='text-danger'>Attendez 5 minutes avant de renvoyer un message.</div>",
+    "description": ""
+  },
+  "discardChanges": {
+    "message": "Voulez-vous enregistrer votre thème avant de fermer l'éditeur ?",
+    "description": ""
+  },
+  "yes": {
+    "message": "Oui",
+    "description": ""
+  },
+  "no": {
+    "message": "Non",
+    "description": ""
+  },
+  "bestContributors": {
+    "message": "Meilleurs donateurs",
+    "description": ""
+  },
+  "freeAmount": {
+    "message": "Montant libre",
+    "description": ""
+  },
+  "username": {
+    "message": "Adresse email",
+    "description": ""
+  },
+  "password": {
+    "message": "Mot de passe",
+    "description": ""
+  },
+  "createaccount": {
+    "message": "Créer un compte",
+    "description": ""
+  },
+  "login": {
+    "message": "Se connecter",
+    "description": ""
+  },
+  "forgottenpass": {
+    "message": "Mot de passe oublié ?",
+    "description": ""
+  },
+  "syncDesc": {
+    "message": "Pour pouvoir synchroniser vos données entre plusieurs endroit, vous devez d'abord vous identifier.<br> Si vous n'avez pas de compte, entrez votre identifiant et mot de passe puis cliquez sur \"créer un compte\".",
+    "description": ""
+  },
+  "loginExists": {
+    "message": "<div class='text-danger'>Cet identifiant existe déjà.</div>",
+    "description": ""
+  },
+  "enterEmail": {
+    "message": "<div class='text-danger'>Entrez une adresse Email valide.</div>",
+    "description": ""
+  },
+  "enterPassword": {
+    "message": "<div class='text-danger'>Entrez un mot de passe.</div>",
+    "description": ""
+  },
+  "wrongAuth": {
+    "message": "<div class='text-danger'>Mauvais identifiant / Mot de passe.</div>",
+    "description": ""
+  },
+  "loggedAs": {
+    "message": "Connecté en tant que",
+    "description": ""
+  },
+  "disconnect": {
+    "message": "Me déconnecter",
+    "description": ""
+  },
+  "leaveempty": {
+    "message": "Laissez vide pour ne pas changer",
+    "description": ""
+  },
+  "updateAccount": {
+    "message": "Mettre à jour mes informations",
+    "description": ""
+  },
+  "newLogin": {
+    "message": "Mon nouvel identifiant",
+    "description": ""
+  },
+  "newPassword": {
+    "message": "Mon nouveau mot de passe",
+    "description": ""
+  },
+  "actualPassword": {
+    "message": "Confirmer avec mon mot de passe actuel",
+    "description": ""
+  },
+  "wrongold": {
+    "message": "<div class='text-danger'>Votre mot de passe actuel n'est pas correct.</div>",
+    "description": ""
+  },
+  "accountUpdated": {
+    "message": "<div class='text-success'>Votre compte a bien été mis à jour.</div>",
+    "description": ""
+  },
+  "credits": {
+    "message": "A propos",
+    "description": ""
+  },
+  "showName": {
+    "message": "Afficher le nom du bookmark sur la vignette",
+    "description": ""
+  },
+  "search": {
+    "message": "Chercher un bookmark",
+    "description": ""
+  },
+  "next": {
+    "message": "Suivant",
+    "description": ""
+  },
+  "prev": {
+    "message": "Précédent",
+    "description": ""
+  },
+  "showGoogle": {
+    "message": "Montrer la barre de recherche",
+    "description": ""
+  },
+  "searchGoogle": {
+    "message": "Rechercher sur le web avec",
+    "description": ""
+  },
+  "newVersion": {
+    "message": "Nouvelle version !",
+    "description": ""
+  },
+  "seeWhatChanged": {
+    "message": "Regardez ce qui a changé.",
+    "description": ""
+  },
+  "changessince": {
+    "message": "Changements depuis la dernière version",
+    "description": ""
+  },
+  "thanksto": {
+    "message": "Remerciements",
+    "description": ""
+  },
+  "imageDialTypeScreenshot": {
+    "message": "Capture d'écran",
+    "description": ""
+  },
+  "nologo": {
+    "message": "Un logo ne peut pas être trouvé automatiquement pour ce site. Une capture d'écran sera utilisée.",
+    "description": ""
+  },
+  "addblur": {
+    "message": "Flouter",
+    "description": ""
+  },
+  "adddesaturate": {
+    "message": "Coloration",
+    "description": ""
+  },
+  "fineTune": {
+    "message": "Réglage manuel des paramètres du theme",
+    "description": ""
+  },
+  "screenshot_notice": {
+    "message": "Cliquez sur le bookmark et attendez le chargement complet de la page pour que la capture d'écran se fasse.",
+    "description": ""
+  },
+  "local_file": {
+    "message": "Une image sur mon ordinateur",
+    "description": ""
+  },
+  "reloadDial": {
+    "message": "Actualiser l'image",
+    "description": ""
+  },
+  "screenshotChanged": {
+    "message": "<b>Bonjour !</b> <br><br> Le système de capture d'écran a changé dans cette version. Les captures d'écran sont prises par le navigateur et fonctionnent donc sur tous les sites, même locaux.<br><br>Les captures d'écran prisent précédemment peuvent être vide mais seront actualisées dès que vous visiterez le site.<br><br>Si vous avez un compte pour la synchronisation, vous pouvez empêcher la synchronisation des captures d'écran depuis les paramètres dans le menu en haut a droite.<br><br><div style='text-align:right'>Loïc</div>",
+    "description": ""
+  },
+  "syncOptions": {
+    "message": "Options de synchronisation",
+    "description": ""
+  },
+  "allowSyncScreenshot": {
+    "message": "Synchroniser les images et captures d'écran",
+    "description": ""
+  },
+  "showLastTab": {
+    "message": "Montrer à l'ouverture, le dernier onglet sélectionné",
+    "description": ""
+  },
+  "defaultFolder": {
+    "message": "Image par defaut des dossiers",
+    "description": ""
+  },
+  "addFolder": {
+    "message": "Ajouter un dossier",
+    "description": ""
+  },
+  "sendToTop": {
+    "message": "Envoyer vers le dossier supérieur",
+    "description": ""
+  },
+  "refreshForThisTab": {
+    "message": "Actualiser la capture d'écran de ce bookmark",
+    "description": ""
+  },
+  "help": {
+    "message": "Aide",
+    "description": ""
+  },
+  "general": {
+    "message": "Général",
+    "description": ""
+  },
+  "openAllDials": {
+    "message": "Ouvrir tous les bookmarks de cet onglet",
+    "description": ""
+  },
+  "openWallet": {
+    "message": "Ouvrir le portefeuille",
+    "description": ""
+  },
+  "changeAllImageType": {
+    "message": "Changer le type d'image pour tous les bookmarks de cet onglet",
+    "description": ""
+  },
+  "donotchange": {
+    "message": "Ne pas changer",
+    "description": ""
+  },
+  "widthInPercent": {
+    "message": "Taille en pourcentage de la largeur de la fenêtre",
+    "description": ""
+  },
+  "widthInPixel": {
+    "message": "Taille en pixel (ne sera pas responsive)",
+    "description": ""
+  },
+  "addBlank": {
+    "message": "Espace vide",
+    "description": ""
+  },
+  "dialtext": {
+    "message": "Titre du bookmark",
+    "description": ""
+  },
+  "dialtextcolor": {
+    "message": "Couleur du texte",
+    "description": ""
+  },
+  "dialstextbgcolor": {
+    "message": "Couleur de fond",
+    "description": ""
+  },
+  "openInBackground": {
+    "message": "Ouvrir en arrière plan",
+    "description": ""
+  },
+  "pageHeaderAutoHide": {
+    "message": "Cacher la barre d'onglets (Apparait au survol avec la souris)",
+    "description": ""
+  }
+}

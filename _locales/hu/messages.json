@@ -1,0 +1,738 @@
+{
+  "extensionName": {
+    "message": "Yay! Another Speed dial!",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Egy rendkívül jól testreszabható gyorshívó, amit a stílus és az egyszerűség jellemez.",
+    "description": ""
+  },
+  "speeddialAdd": {
+    "message": "Könyvjelző hozzáadása",
+    "description": ""
+  },
+  "defaultTab": {
+    "message": "Új lap hozzáadása",
+    "description": ""
+  },
+  "settings": {
+    "message": "Beállítások",
+    "description": ""
+  },
+  "tabSettings": {
+    "message": "Lapbeállítások",
+    "description": ""
+  },
+  "inputRenameTab": {
+    "message": "Lap nevének módosítása",
+    "description": ""
+  },
+  "inputChangeColor": {
+    "message": "Lap színe",
+    "description": ""
+  },
+  "inputChangeColorTxt": {
+    "message": "Szín módosítása",
+    "description": ""
+  },
+  "deleteTab": {
+    "message": "Lap törlése",
+    "description": ""
+  },
+  "deleteTabPhrase": {
+    "message": "Tényleg törölni szeretnéd ezt a lapot és az összes rajta levő könyvjelzőt?",
+    "description": ""
+  },
+  "dialSettings": {
+    "message": "Könyvjelző módosítása",
+    "description": ""
+  },
+  "deleteDial": {
+    "message": "Könyvjelző törlése",
+    "description": ""
+  },
+  "deleteDialPhrase": {
+    "message": "Tényleg törölni szeretnéd ezt a könyvjelzőt?",
+    "description": ""
+  },
+  "save": {
+    "message": "Mentés",
+    "description": ""
+  },
+  "cancel": {
+    "message": "Mégse",
+    "description": ""
+  },
+  "inputDialName": {
+    "message": "Könyvjelző neve",
+    "description": ""
+  },
+  "inputDialURL": {
+    "message": "Könyvjelzőhöz tartozó hivatkozás",
+    "description": ""
+  },
+  "imageDialType": {
+    "message": "Kép",
+    "description": ""
+  },
+  "imageDialTypeAuto": {
+    "message": "Automatikus",
+    "description": ""
+  },
+  "imageDialTypeManual": {
+    "message": "Hivatkozás alapján",
+    "description": ""
+  },
+  "imageDialTypeScreen": {
+    "message": "Képernyőkép",
+    "description": ""
+  },
+  "contextualAddTo": {
+    "message": "Oldal hozzáadása laphoz",
+    "description": ""
+  },
+  "sendTo": {
+    "message": "Küldés másik lapra...",
+    "description": ""
+  },
+  "themeEditor": {
+    "message": "Témaszerkesztő",
+    "description": ""
+  },
+  "close": {
+    "message": "Bezárás",
+    "description": ""
+  },
+  "back": {
+    "message": "Vissza",
+    "description": ""
+  },
+  "importWarning": {
+    "message": "Figyelmeztetés: az importálással minden beállítás, lap és könyvjelző le lesz cserélve. Folytatod?",
+    "description": ""
+  },
+  "resetWarning": {
+    "message": "Figyelmeztetés: minden beállítás, lap és könyvjelző törlődni fog. Folytatod?",
+    "description": ""
+  },
+  "applyPexels": {
+    "message": "PEXELS kép alkalmazása",
+    "description": ""
+  },
+  "applyTheme": {
+    "message": "Téma alkalmazása",
+    "description": ""
+  },
+  "openShareTheme": {
+    "message": "Saját téma megosztása",
+    "description": ""
+  },
+  "searchTheme": {
+    "message": "Téma keresése",
+    "description": ""
+  },
+  "by": {
+    "message": "by",
+    "description": ""
+  },
+  "applied": {
+    "message": "Alkalmazva",
+    "description": ""
+  },
+  "times": {
+    "message": "alkalommal",
+    "description": ""
+  },
+  "backup": {
+    "message": "Biztonsági mentés",
+    "description": ""
+  },
+  "sync": {
+    "message": "Szinkronizálás",
+    "description": ""
+  },
+  "reset": {
+    "message": "Visszaállítás",
+    "description": ""
+  },
+  "syncwith": {
+    "message": "Szinkronizálás a fiókommal",
+    "description": ""
+  },
+  "usesync": {
+    "message": "Szinkronizálás a Firefox profilommal",
+    "description": ""
+  },
+  "nomobile": {
+    "message": "(Nem működik a Firefox mobilverziójával)",
+    "description": ""
+  },
+  "exportall": {
+    "message": "Összes exportálása",
+    "description": ""
+  },
+  "importall": {
+    "message": "Összes importálása",
+    "description": ""
+  },
+  "createFromBookmarks": {
+    "message": "Lap létrehozása böngésző könyvjelzőmappájából",
+    "description": ""
+  },
+  "selectFolder": {
+    "message": "Mappa kiválasztása, majd érvényesítése",
+    "description": ""
+  },
+  "create": {
+    "message": "Létrehozás",
+    "description": ""
+  },
+  "importFrom": {
+    "message": "Importálás másik forrásból",
+    "description": ""
+  },
+  "importFromAnother": {
+    "message": "Lapok és könyvjelzők importálása egy másis gyorshívóból",
+    "description": ""
+  },
+  "importFromSP2": {
+    "message": "Importálás a Speed Dial 2 gyorshívóból",
+    "description": ""
+  },
+  "page": {
+    "message": "Oldal",
+    "description": ""
+  },
+  "bookmark": {
+    "message": "Könyvjelző",
+    "description": ""
+  },
+  "animations": {
+    "message": "Animációk",
+    "description": ""
+  },
+  "advanced": {
+    "message": "Speciális",
+    "description": ""
+  },
+  "themeGallery": {
+    "message": "Témák galériája",
+    "description": ""
+  },
+  "activateCustom": {
+    "message": "Egyéni CSS aktiválása",
+    "description": ""
+  },
+  "addOwnRules": {
+    "message": "Saját szabály hozzáadása vagy a meglévő szabályok felülírása.",
+    "description": ""
+  },
+  "other": {
+    "message": "Egyéb",
+    "description": ""
+  },
+  "otherSettings": {
+    "message": "Egyéb beállítások",
+    "description": ""
+  },
+  "showAdd": {
+    "message": "Könyvjelző hozzáadása gomb megjelenítése",
+    "description": ""
+  },
+  "autoColor": {
+    "message": "Automatikus szövegszín aktiválása",
+    "description": ""
+  },
+  "autoColorNotice": {
+    "message": "Bizonyos esetekben a szöveg színének meghatározása a háttérszín alapján automatikusan történik",
+    "description": ""
+  },
+  "manageAnimations": {
+    "message": "Animációk kezelése",
+    "description": ""
+  },
+  "enterAnimations": {
+    "message": "Könyvjelzőbe belépés animáció",
+    "description": ""
+  },
+  "none": {
+    "message": "Nincs",
+    "description": ""
+  },
+  "fade": {
+    "message": "Úsztatás",
+    "description": ""
+  },
+  "zoom": {
+    "message": "Nagyítás",
+    "description": ""
+  },
+  "bounce": {
+    "message": "Ugrálás",
+    "description": ""
+  },
+  "rotate": {
+    "message": "Forgás",
+    "description": ""
+  },
+  "popup": {
+    "message": "Felugrás",
+    "description": ""
+  },
+  "enterDelay": {
+    "message": "Könyvjelzők közötti késleltetés megadása",
+    "description": ""
+  },
+  "seconds": {
+    "message": "mp",
+    "description": ""
+  },
+  "exitAnimations": {
+    "message": "Könyvjelzőből kilépés animáció",
+    "description": ""
+  },
+  "hoverAnimations": {
+    "message": "Könyvjelző feletti kurzor animáció",
+    "description": ""
+  },
+  "opacity": {
+    "message": "Áttetszőség",
+    "description": ""
+  },
+  "grayscale": {
+    "message": "Szürkeárnyalatosság",
+    "description": ""
+  },
+  "border": {
+    "message": "Szegély",
+    "description": ""
+  },
+  "zoomgrayscale": {
+    "message": "Szürkeárnyalatosság növelése",
+    "description": ""
+  },
+  "zoomopacity": {
+    "message": "Áttetszőség növelése",
+    "description": ""
+  },
+  "customiseBookmarks": {
+    "message": "Könyvjelzők testreszabása",
+    "description": ""
+  },
+  "shape": {
+    "message": "Alak",
+    "description": ""
+  },
+  "width": {
+    "message": "Szélesség",
+    "description": ""
+  },
+  "height": {
+    "message": "Magasság",
+    "description": ""
+  },
+  "padding": {
+    "message": "Keret",
+    "description": ""
+  },
+  "activateAnimations": {
+    "message": "Animációk aktiválása",
+    "description": ""
+  },
+  "radius": {
+    "message": "Sugár",
+    "description": ""
+  },
+  "bookbg": {
+    "message": "Háttér",
+    "description": ""
+  },
+  "color": {
+    "message": "Szín",
+    "description": ""
+  },
+  "size": {
+    "message": "Méret",
+    "description": ""
+  },
+  "position": {
+    "message": "Pozíció",
+    "description": ""
+  },
+  "rowWidth": {
+    "message": "Sorszélesség",
+    "description": ""
+  },
+  "marginBetweenBook": {
+    "message": "Oszlopok közötti margó",
+    "description": ""
+  },
+  "marginBetweenRows": {
+    "message": "Sorok közötti margó",
+    "description": ""
+  },
+  "customizePage": {
+    "message": "Kezdőlap testreszabása",
+    "description": ""
+  },
+  "wallpaper": {
+    "message": "Háttérkép",
+    "description": ""
+  },
+  "image": {
+    "message": "Kép",
+    "description": ""
+  },
+  "searchInPexels": {
+    "message": "PEXELS galéria megnyitása",
+    "description": ""
+  },
+  "navbar": {
+    "message": "Navigációs sáv",
+    "description": ""
+  },
+  "backgroundColor": {
+    "message": "Háttérszín",
+    "description": ""
+  },
+  "selectedTabColor": {
+    "message": "Kiválasztott lap színe",
+    "description": ""
+  },
+  "hoverTabColor": {
+    "message": "Kurzor alatti lap színe",
+    "description": ""
+  },
+  "textColor": {
+    "message": "Szöveg színe",
+    "description": ""
+  },
+  "selectedTabTextColor": {
+    "message": "Kiválasztott lap szövegszíne",
+    "description": ""
+  },
+  "hoverTabTextColor": {
+    "message": "Kurzor alatti lap szövegszíne",
+    "description": ""
+  },
+  "enableAnimations": {
+    "message": "Animációk engedélyezése",
+    "description": ""
+  },
+  "linkToImage": {
+    "message": "Link a háttérképhez",
+    "description": ""
+  },
+  "search_image": {
+    "message": "Kép keresése",
+    "description": ""
+  },
+  "openInTab": {
+    "message": "Könyvjelzők megnyitása másik lapon",
+    "description": ""
+  },
+  "contribute": {
+    "message": "Támogass!",
+    "description": ""
+  },
+  "enterNName": {
+    "message": "Neved",
+    "description": ""
+  },
+  "noNName": {
+    "message": "Hagyd üresen, ha nem kívánsz megjelenni a legjobb adományozók listáján",
+    "description": ""
+  },
+  "whydonate": {
+    "message": "<h5>Miért adományozz?</h5>Minden adomány ösztönöz, hogy folytassam az alkalmazás fejlesztését. Továbbá: <br> - Új funkciókat építek bele<br> - Fedezem a szerverrel kapcsolatos költségeket<br> - Új témákat hozok létre",
+    "description": ""
+  },
+  "suggestions": {
+    "message": "Vedd fel velem a kapcsolatot",
+    "description": ""
+  },
+  "suggestionsText": {
+    "message": "Ha egy új funkciót, egy adott témát vagy új fordítást szeretnél, vagy csak a véleményedet megosztani, küldj egy üzenetet nekem az alábbi űrlapon.",
+    "description": ""
+  },
+  "yourMessage": {
+    "message": "Üzeneted",
+    "description": ""
+  },
+  "yourEmail": {
+    "message": "E-mail címed",
+    "description": ""
+  },
+  "send": {
+    "message": "Küldés",
+    "description": ""
+  },
+  "suggestionOk": {
+    "message": "<div class='text-success'>Köszönöm! Üzenet elküldve.</div>",
+    "description": ""
+  },
+  "suggestionSpam": {
+    "message": "<div class='text-danger'>Várj 5 percet, mielőtt új üzenetet küldenél.</div>",
+    "description": ""
+  },
+  "discardChanges": {
+    "message": "Szeretnéd elmenteni a változtatásokat a szerkesztő bezárása előtt?",
+    "description": ""
+  },
+  "yes": {
+    "message": "Igen",
+    "description": ""
+  },
+  "no": {
+    "message": "Nem",
+    "description": ""
+  },
+  "bestContributors": {
+    "message": "Legjobb adományozók",
+    "description": ""
+  },
+  "freeAmount": {
+    "message": "Szabadon meghatározott összeg",
+    "description": ""
+  },
+  "username": {
+    "message": "E-mail",
+    "description": ""
+  },
+  "password": {
+    "message": "Jelszó",
+    "description": ""
+  },
+  "createaccount": {
+    "message": "Fiók létrehozása",
+    "description": ""
+  },
+  "login": {
+    "message": "Bejelentkezés",
+    "description": ""
+  },
+  "forgottenpass": {
+    "message": "Jelszó átállítása",
+    "description": ""
+  },
+  "syncDesc": {
+    "message": "Az adatok különböző helyek közötti szinkronizálása érdekében először jelentkezz be.<br> Ha nincs fiókod, írd be az e-mail címedet és jelszavadat, majd kattints a Fiók létrehozása gombra.",
+    "description": ""
+  },
+  "loginExists": {
+    "message": "<div class='text-danger'>Ez az e-mail cím már használatban van.</div>",
+    "description": ""
+  },
+  "enterEmail": {
+    "message": "<div class='text-danger'>Kérlek, létező e-mail címet adj meg.</div>",
+    "description": ""
+  },
+  "enterPassword": {
+    "message": "<div class='text-danger'>Kérlek, írj be egy jelszót.</div>",
+    "description": ""
+  },
+  "wrongAuth": {
+    "message": "<div class='text-danger'>Rossz felhasználónév / jelszó.</div>",
+    "description": ""
+  },
+  "loggedAs": {
+    "message": "Bejelentkezve mint",
+    "description": ""
+  },
+  "disconnect": {
+    "message": "Kijelentkezés",
+    "description": ""
+  },
+  "leaveempty": {
+    "message": "Hagyd üresen, hogy ne változtasd meg",
+    "description": ""
+  },
+  "updateAccount": {
+    "message": "A fiók frissítése",
+    "description": ""
+  },
+  "newLogin": {
+    "message": "Új felhasználónevem",
+    "description": ""
+  },
+  "newPassword": {
+    "message": "Új jelszóm",
+    "description": ""
+  },
+  "actualPassword": {
+    "message": "Erősítsd meg a jelenlegi jelszóval",
+    "description": ""
+  },
+  "wrongold": {
+    "message": "<div class='text-danger'>A jelenlegi jelszó helytelen.</div>",
+    "description": ""
+  },
+  "accountUpdated": {
+    "message": "<div class='text-success'>Fiókod sikeresen frissült.</div>",
+    "description": ""
+  },
+  "credits": {
+    "message": "Névjegy",
+    "description": ""
+  },
+  "showName": {
+    "message": "Könyvjelző nevének megjelenítése",
+    "description": ""
+  },
+  "search": {
+    "message": "Könyvjelző keresése",
+    "description": ""
+  },
+  "next": {
+    "message": "Következő",
+    "description": ""
+  },
+  "prev": {
+    "message": "Előző",
+    "description": ""
+  },
+  "showGoogle": {
+    "message": "Keresősáv megjelenítése",
+    "description": ""
+  },
+  "searchGoogle": {
+    "message": "Keresés az interneten a következővel:",
+    "description": ""
+  },
+  "newVersion": {
+    "message": "Új verzió!",
+    "description": ""
+  },
+  "seeWhatChanged": {
+    "message": "Nézd meg, mi változott.",
+    "description": ""
+  },
+  "changessince": {
+    "message": "Változások az utolsó verzió óta",
+    "description": ""
+  },
+  "thanksto": {
+    "message": "Köszönet",
+    "description": ""
+  },
+  "imageDialTypeScreenshot": {
+    "message": "Képernyőkép",
+    "description": ""
+  },
+  "addblur": {
+    "message": "Elmosódottság",
+    "description": ""
+  },
+  "adddesaturate": {
+    "message": "Színtelítettség",
+    "description": ""
+  },
+  "fineTune": {
+    "message": "Téma beállításainak manuális finomhangolása",
+    "description": ""
+  },
+  "screenshot_notice": {
+    "message": "Képernyőkép készítéséhez kattints a gyorshívó-panelra, majd várd meg, hogy az oldal teljesen betöltődjön.",
+    "description": ""
+  },
+  "local_file": {
+    "message": "Fájl keresése a számítógépemen",
+    "description": ""
+  },
+  "reloadDial": {
+    "message": "Képernyőkép frissítése",
+    "description": ""
+  },
+  "screenshotChanged": {
+    "message": "<b>Hello !</b> <br><br> A képernyőképek készítésének módja megváltozott ebben a verzióban. A képernyőképeket a böngésző készíti, így a módszer minden weboldalon működik.<br><br>A jelenlegi képernyőkép üres lehet, de frissülni fog, amint meglátogatod az adott weboldalt.<br><br>Ha van fiókod a szinkronizáláshoz, letilthatod a képernyőképek szinkronizálását a beállításokban.<br><br><div style='text-align:right'>Loïc</div>",
+    "description": ""
+  },
+  "syncOptions": {
+    "message": "Szinkronizálási beállítások",
+    "description": ""
+  },
+  "allowSyncScreenshot": {
+    "message": "Helyi képek és képernyőképek szinkronizálása",
+    "description": ""
+  },
+  "showLastTab": {
+    "message": "Az utoljára használt lap megjelenítése megnyitáskor",
+    "description": ""
+  },
+  "defaultFolder": {
+    "message": "Alapértelmezett mappa kép",
+    "description": ""
+  },
+  "addFolder": {
+    "message": "Mappa hozzáadása",
+    "description": ""
+  },
+  "sendToTop": {
+    "message": "Küldés a szülőmappába",
+    "description": ""
+  },
+  "refreshForThisTab": {
+    "message": "Képernyőkép frissítése ehhez a gyorshívó-panelhez",
+    "description": ""
+  },
+  "help": {
+    "message": "Segítség",
+    "description": ""
+  },
+  "general": {
+    "message": "Általános",
+    "description": ""
+  },
+  "openAllDials": {
+    "message": "Az összes könyvjelző megnyitása ezen a lapon",
+    "description": ""
+  },
+  "openWallet": {
+    "message": "Mobiltárca megnyitása",
+    "description": ""
+  },
+  "changeAllImageType": {
+  "message": "Kép típusának módosítása az összes könyvjelzőhöz ezen a lapon",
+  "description": ""
+  },
+  "donotchange": {
+    "message": "Ne legyen módosítva",
+    "description": ""
+  },
+  "widthInPercent": {
+    "message": "Szélesség százalékban",
+    "description": ""
+  },
+  "widthInPixel": {
+    "message": "Szélesség pixelben (nem lesz azonnal látható)",
+    "description": ""
+  },
+  "dialtext": {
+    "message": "Könyvjelző címe",
+    "description": ""
+  },
+  "dialtextcolor": {
+    "message": "Szöveg színe",
+    "description": ""
+  },
+  "dialstextbgcolor": {
+    "message": "Háttér színe",
+    "description": ""
+  },
+  "addBlank": {
+    "message": "Üres hely",
+    "description": ""
+  },
+  "importFromOldsd": {
+    "message": "Speeddial.uworks.net",
+    "description": ""
+  },
+  "openInBackground": {
+    "message": "Megnyitás a háttérben",
+    "description": ""
+  },
+  "pageHeaderAutoHide": {
+    "message": "Oldalsáv elrejtése (kurzorral közelítve megjelenik)",
+    "description": ""
+  }
+}

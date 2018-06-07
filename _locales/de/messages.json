@@ -1,0 +1,554 @@
+{
+  "extensionName": {
+    "message": "Yay! Another Speed dial!"
+  },
+  "extensionDescription": {
+    "message": "Eine coole und höchst anpassbare Speed Dial Erweiterung, fokusiert auf Aussehen und Einfachheit."
+  },
+  "speeddialAdd": {
+    "message": "Lesezeichen hinzufügen"
+  },
+  "defaultTab": {
+    "message": "Neuer Tab"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "tabSettings": {
+    "message": "Tab Einstellungen"
+  },
+  "inputRenameTab": {
+    "message": "Tab Name"
+  },
+  "inputChangeColor": {
+    "message": "Tab Farbe"
+  },
+  "inputChangeColorTxt": {
+    "message": "Farbe ändern"
+  },
+  "deleteTab": {
+    "message": "Tab löschen"
+  },
+  "deleteTabPhrase": {
+    "message": "Willst du wirklich diesen Tab und alle seine Lesezeichen löschen?"
+  },
+  "dialSettings": {
+    "message": "Lesezeichen bearbeiten"
+  },
+  "deleteDial": {
+    "message": "Lesezeichen löschen"
+  },
+  "deleteDialPhrase": {
+    "message": "Willst du wirklich dieses Lesezeichen löschen?"
+  },
+  "save": {
+    "message": "Speichern"
+  },
+  "cancel": {
+    "message": "Abbruch"
+  },
+  "inputDialName": {
+    "message": "Lesezeichen Name"
+  },
+  "inputDialURL": {
+    "message": "Lesezeichen Link"
+  },
+  "imageDialType": {
+    "message": "Bild"
+  },
+  "imageDialTypeAuto": {
+    "message": "Automatisch"
+  },
+  "imageDialTypeManual": {
+    "message": "Von einem Link"
+  },
+  "imageDialTypeScreen": {
+    "message": "Ein Bildschirmfoto"
+  },
+  "contextualAddTo": {
+    "message": "Diese Seite einem Tab hinzufügen"
+  },
+  "sendTo": {
+    "message": "An einen anderen Tab senden..."
+  },
+  "themeEditor": {
+    "message": "Theme Editor"
+  },
+  "close": {
+    "message": "Schließen"
+  },
+  "back": {
+    "message": "Zurück"
+  },
+  "importWarning": {
+    "message": "Warnung, der Import wird alle Einstellungen, Tabs und Lesezeichen ersetzen. Fortfahren?"
+  },
+  "resetWarning": {
+    "message": "Warnung, alle Einstellungen, Tabs und Lesezeichen werden gelöscht. Fortfahren?"
+  },
+  "applyPexels": {
+    "message": "PEXELS Bild anwenden"
+  },
+  "applyTheme": {
+    "message": "Theme anwenden"
+  },
+  "openShareTheme": {
+    "message": "Mein Theme teilen"
+  },
+  "searchTheme": {
+    "message": "Nach Themes suchen"
+  },
+  "by": {
+    "message": "von"
+  },
+  "applied": {
+    "message": "Benutzt"
+  },
+  "times": {
+    "message": "Mal"
+  },
+  "backup": {
+    "message": "Sicherung"
+  },
+  "sync": {
+    "message": "Sync"
+  },
+  "reset": {
+    "message": "Zurücksetzen"
+  },
+  "syncwith": {
+    "message": "Mit meinem Konto synchronisieren"
+  },
+  "usesync": {
+    "message": "Mein Firefox Profil zur Synchronisierung nutzen"
+  },
+  "nomobile": {
+    "message": "(Funktioniert nicht mit der mobilen Version von Firefox)"
+  },
+  "exportall": {
+    "message": "Alle exportieren"
+  },
+  "importall": {
+    "message": "Alle importieren"
+  },
+  "createFromBookmarks": {
+    "message": "Einen Tab von einem meiner Lesezeichen Ordner erstellen"
+  },
+  "selectFolder": {
+    "message": "Einen Ordner auswählen und bestätigen"
+  },
+  "create": {
+    "message": "Erstellen"
+  },
+  "importFrom": {
+    "message": "Von einer anderen Quelle importieren"
+  },
+  "importFromAnother": {
+    "message": "Tabs und Lesezeichen von einer anderen Speed Dial Erweiterung importieren"
+  },
+  "importFromSP2": {
+    "message": "Von Speed Dial 2 importieren"
+  },
+  "page": {
+    "message": "Seite"
+  },
+  "bookmark": {
+    "message": "Lesezeichen"
+  },
+  "animations": {
+    "message": "Animationen"
+  },
+  "advanced": {
+    "message": "Erweitert"
+  },
+  "themeGallery": {
+    "message": "Theme Gallerie"
+  },
+  "activateCustom": {
+    "message": "Benutzerdefiniertes CSS aktivieren"
+  },
+  "addOwnRules": {
+    "message": "Eigene Regeln hinzufügen und bestehende überschreiben."
+  },
+  "other": {
+    "message": "Sonstige"
+  },
+  "otherSettings": {
+    "message": "Sonstige Einstellungen"
+  },
+  "showAdd": {
+    "message": "Den Lesezeichen hinzufügen Button anzeigen"
+  },
+  "autoColor": {
+    "message": "Automatische Text Farbe aktivieren"
+  },
+  "autoColorNotice": {
+    "message": "In manchen Fällen ist die Text Farbe automatisch, basierend auf der Hintergrund Farbe"
+  },
+  "manageAnimations": {
+    "message": "Animationen verwalten"
+  },
+  "enterAnimations": {
+    "message": "Lesezeichen Anfangsanimation"
+  },
+  "none": {
+    "message": "Keine"
+  },
+  "fade": {
+    "message": "Verblassen"
+  },
+  "zoom": {
+    "message": "Zoom"
+  },
+  "bounce": {
+    "message": "Hüpfen"
+  },
+  "rotate": {
+    "message": "Rotieren"
+  },
+  "popup": {
+    "message": "Popup"
+  },
+  "enterDelay": {
+    "message": "Verzögerung zwischen Lesezeichen einfügen"
+  },
+  "seconds": {
+    "message": "Sekunden"
+  },
+  "exitAnimations": {
+    "message": "Lesezeichen Endanimation"
+  },
+  "hoverAnimations": {
+    "message": "Lesezeichen Hoveranimation"
+  },
+  "opacity": {
+    "message": "Transparenz"
+  },
+  "grayscale": {
+    "message": "Graustufe"
+  },
+  "border": {
+    "message": "Rahmen"
+  },
+  "zoomgrayscale": {
+    "message": "Zoom / Graustufe"
+  },
+  "zoomopacity": {
+    "message": "Zoom / Transparenz"
+  },
+  "customiseBookmarks": {
+    "message": "Lesezeichen bearbeiten"
+  },
+  "shape": {
+    "message": "Form"
+  },
+  "width": {
+    "message": "Breite"
+  },
+  "height": {
+    "message": "Höhe"
+  },
+  "padding": {
+    "message": "Füllung"
+  },
+  "activateAnimations": {
+    "message": "Animationen aktivieren"
+  },
+  "radius": {
+    "message": "Radius"
+  },
+  "bookbg": {
+    "message": "Hintergrund"
+  },
+  "color": {
+    "message": "Farbe"
+  },
+  "size": {
+    "message": "Größe"
+  },
+  "position": {
+    "message": "Position"
+  },
+  "rowWidth": {
+    "message": "Breite der Reihen"
+  },
+  "marginBetweenBook": {
+    "message": "Abstand zwischen Spalten"
+  },
+  "marginBetweenRows": {
+    "message": "Abstand zwischen Reihen"
+  },
+  "customizePage": {
+    "message": "Startseite bearbeiten"
+  },
+  "wallpaper": {
+    "message": "Hintergrund"
+  },
+  "image": {
+    "message": "Bild"
+  },
+  "searchInPexels": {
+    "message": "PEXELS Gallerie öffnen"
+  },
+  "navbar": {
+    "message": "Navigationsleiste"
+  },
+  "backgroundColor": {
+    "message": "Hintergrund Farbe"
+  },
+  "selectedTabColor": {
+    "message": "Ausgewählter Tab Farbe"
+  },
+  "hoverTabColor": {
+    "message": "Tab Hover Farbe"
+  },
+  "textColor": {
+    "message": "Text Farbe"
+  },
+  "selectedTabTextColor": {
+    "message": "Ausgewählter Tab Text Farbe"
+  },
+  "hoverTabTextColor": {
+    "message": "Tab Hover Text Farbe"
+  },
+  "enableAnimations": {
+    "message": "Animationen aktivieren"
+  },
+  "linkToImage": {
+    "message": "Link zum Hintergrund"
+  },
+  "search_image": {
+    "message": "Bild suchen"
+  },
+  "openInTab": {
+    "message": "Lesezeichen in einem anderen Tab öffnen"
+  },
+  "contribute": {
+    "message": "Mich unterstützen!"
+  },
+  "enterNName": {
+    "message": "Dein Name"
+  },
+  "noNName": {
+    "message": "Leer lassen, wenn du nicht in der Beste Spenderliste eingetragen werden willst"
+  },
+  "whydonate": {
+    "message": "<h5>Warum Spenden?</h5>Jede Spende wird mich dazu motivieren die Entwicklung fortzusetzen. Aber auch: <br> - Entwicklung neuer Funktionen<br> - Deckung der Serverkosten<br> - Erstellung neuer Themes"
+  },
+  "suggestions": {
+    "message": "Kontaktieren"
+  },
+  "suggestionsText": {
+    "message": "Wenn du eine Funktion, ein bestimmtes Theme, eine Übersetzung haben möchtest oder nur deine Meinung abgeben willst, zögere nicht mir eine Nachricht über das untere Formular zu schicken."
+  },
+  "yourMessage": {
+    "message": "Deine Nachricht"
+  },
+  "yourEmail": {
+    "message": "Deine E-Mail"
+  },
+  "send": {
+    "message": "Senden"
+  },
+  "suggestionOk": {
+    "message": "<div class='text-success'>Danke ! Deine Nachricht wurde gesendet</div>"
+  },
+  "suggestionSpam": {
+    "message": "<div class='text-danger'>Warte 5 Minuten um eine weitere Nachricht senden zu können.</div>"
+  },
+  "discardChanges": {
+    "message": "Willst du deine Änderungen speichern bevor der Editor geschlossen wird?"
+  },
+  "yes": {
+    "message": "Ja"
+  },
+  "no": {
+    "message": "Nein"
+  },
+  "bestContributors": {
+    "message": "Beste Spender"
+  },
+  "freeAmount": {
+    "message": "Freier Beitrag"
+  },
+  "username": {
+    "message": "E-Mail"
+  },
+  "password": {
+    "message": "Passwort"
+  },
+  "createaccount": {
+    "message": "Account erstellen"
+  },
+  "login": {
+    "message": "Anmelden"
+  },
+  "forgottenpass": {
+    "message": "Passwort zurücksetzen"
+  },
+  "syncDesc": {
+    "message": "Um deine Daten über verschiedene Geräte zu synchronisieren, musst du dich zuerst einloggen.<br> Wenn du noch keinen Account hast, gib deine E-Mail und ein Passwort ein und klicke auf Account erstellen."
+  },
+  "loginExists": {
+    "message": "<div class='text-danger'>Diese Adresse existiert bereits.</div>"
+  },
+  "enterEmail": {
+    "message": "<div class='text-danger'>Bitte eine gültige E-Mail eingeben.</div>"
+  },
+  "enterPassword": {
+    "message": "<div class='text-danger'>Bitte ein Passwort eingeben.</div"
+  },
+  "wrongAuth": {
+    "message": "<div class='text-danger'>Falscher Benutzername / Passwort.</div>"
+  },
+  "loggedAs": {
+    "message": "Eingeloggt als"
+  },
+  "disconnect": {
+    "message": "Abmelden"
+  },
+  "leaveempty": {
+    "message": "Leer lassen um es nicht zu ändern"
+  },
+  "updateAccount": {
+    "message": "Meinen Account updaten"
+  },
+  "newLogin": {
+    "message": "Mein neuer Benutzername"
+  },
+  "newPassword": {
+    "message": "Mein neues Passwort"
+  },
+  "actualPassword": {
+    "message": "Mit dem aktuellen Passwort bestätigen"
+  },
+  "wrongold": {
+    "message": "<div class='text-danger'>Dein aktuelles Passwort ist nicht korrekt.</div"
+  },
+  "accountUpdated": {
+    "message": "<div class='text-success'>Dein Account wurde erfolgreich aktualisiert.</div>"
+  },
+  "credits": {
+    "message": "Über"
+  },
+  "showName": {
+    "message": "Lesezeichen Namen anzeigen"
+  },
+  "search": {
+    "message": "Lesezeichen durchsuchen"
+  },
+  "next": {
+    "message": "Vorwärts"
+  },
+  "prev": {
+    "message": "Zurück"
+  },
+  "showGoogle": {
+    "message": "Suchleiste anzeigen"
+  },
+  "searchGoogle": {
+    "message": "Das Web durchsuchen mit"
+  },
+  "newVersion": {
+    "message": "Neue Version!"
+  },
+  "seeWhatChanged": {
+    "message": "Was hat sich geändert."
+  },
+  "changessince": {
+    "message": "Änderungen seit der letzten Version"
+  },
+  "thanksto": {
+    "message": "Danke an"
+  },
+  "imageDialTypeScreenshot": {
+    "message": "Bildschirmfoto"
+  },
+  "addblur": {
+    "message": "Blur"
+  },
+  "adddesaturate": {
+    "message": "Sättigung"
+  },
+  "fineTune": {
+    "message": "Theme Einstellungen manuell ändern"
+  },
+  "screenshot_notice": {
+    "message": "Bitte auf das Lesezeichen klicken und warten bis es voll geladen ist um ein Bildschirmfoto aufzunehmen."
+  },
+  "local_file": {
+    "message": "Eine Datei auf meinem Computer"
+  },
+  "reloadDial": {
+    "message": "Bildschirmfoto aktualisieren"
+  },
+  "screenshotChanged": {
+    "message": "<b>Hallo !</b> <br><br> Das System für Bildschirmfotos hat sich in dieser Version geändert. Bildschirmfotos werden vom Browser gemacht und funktionieren auf jeder Webseite.<br><br>Vorhandene Bildschirmfotos könnten leer angezeigt werden, werden aber aktualisiert sobald die Webseite besucht wird.<br><br>Wenn du einen Account zur Synchronisierung hast, kannst du die Synchronosierung der Bildschirmfotos in den Einstellungen deaktivieren.<br><br><div style='text-align:right'>Loïc</div>"
+  },
+  "syncOptions": {
+    "message": "Synchronisierungs Einstellungen"
+  },
+  "allowSyncScreenshot": {
+    "message": "Synchronisiere lokale Bilder und Bildschirmfotos"
+  },
+  "showLastTab": {
+    "message": "Zeige den letzten ausgewählten Tab beim Öffnen"
+  },
+  "defaultFolder": {
+    "message": "Voreingestelltes Ordner Bild"
+  },
+  "addFolder": {
+    "message": "Ordner hinzufügen"
+  },
+  "sendToTop": {
+    "message": "An übergeordneten Ordner senden"
+  },
+  "refreshForThisTab": {
+    "message": "Bildschirmfoto für dieses Lesezeichen aktualisieren"
+  },
+  "help": {
+    "message": "Hilfe"
+  },
+  "general": {
+    "message": "Allgemeines"
+  },
+  "openAllDials": {
+    "message": "Alle Lesezeichen dieses Tabs öffnen"
+  },
+  "openWallet": {
+    "message": "Wallet öffnen"
+  },
+  "changeAllImageType": {
+"message": "Den Bilder Typ für alle Lesezeichen dieses Tabs ändern"
+  },
+  "donotchange": {
+    "message": "Nicht ändern"
+  },
+  "widthInPercent": {
+    "message": "Breite in Prozent"
+  },
+  "widthInPixel": {
+    "message": "Breite in Pixel (nicht responsiv)"
+  },
+  "dialtext": {
+    "message": "Lesezeichen Titel"
+  },
+  "dialtextcolor": {
+    "message": "Text Farbe"
+  },
+  "dialstextbgcolor": {
+    "message": "Hintergrund Farbe"
+  },
+  "addBlank": {
+    "message": "Freie Fläche"
+  },
+  "importFromOldsd": {
+    "message": "Speeddial.uworks.net"
+  },
+  "openInBackground": {
+    "message": "Im Hintergrund öffnen"
+  },
+  "pageHeaderAutoHide": {
+    "message": "Tab Leiste ausblenden (anzeigen bei Annäherung mit Maus)"
+  }
+}
