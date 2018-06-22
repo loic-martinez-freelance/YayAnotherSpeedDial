@@ -734,5 +734,17 @@
   "pageHeaderAutoHide": {
     "message": "Oldalsáv elrejtése (kurzorral közelítve megjelenik)",
     "description": ""
+  },
+  "left_align":{
+    "message":"Balra igazít",
+    "description": ""
+  },
+  "centered":{
+    "message":"Központú",
+    "description": ""
+  },
+  "right_align":{
+    "message":"igazítás jobbra",
+    "description": ""
   }
 }

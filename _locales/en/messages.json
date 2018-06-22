@@ -734,5 +734,17 @@
   "pageHeaderAutoHide": {
     "message": "Hide the tab bar (show when mouse cursor approach)",
     "description": ""
+  },
+  "left_align":{
+    "message":"Align left",
+    "description": ""
+  },
+  "centered":{
+    "message":"Center",
+    "description": ""
+  },
+  "right_align":{
+    "message":"Align right",
+    "description": ""
   }
 }

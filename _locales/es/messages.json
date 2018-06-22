@@ -734,5 +734,17 @@
   "pageHeaderAutoHide": {
     "message": "Esconder barra de pestañas (mostrarla cuando se acerca el mouse sólamente)",
     "description": ""
+  },
+  "left_align":{
+    "message":"Alinear a la izquierda",
+    "description": ""
+  },
+  "centered":{
+    "message":"Centrado",
+    "description": ""
+  },
+  "right_align":{
+    "message":"Alinear a la derecha",
+    "description": ""
   }
 }

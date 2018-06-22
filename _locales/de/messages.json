@@ -550,5 +550,17 @@
   },
   "pageHeaderAutoHide": {
     "message": "Tab Leiste ausblenden (anzeigen bei Annäherung mit Maus)"
+  },
+  "left_align":{
+    "message":"Linksbündig",
+    "description": ""
+  },
+  "centered":{
+    "message":"Zentriert",
+    "description": ""
+  },
+  "right_align":{
+    "message":"Rechtsbündig",
+    "description": ""
   }
 }

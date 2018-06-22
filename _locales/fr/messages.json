@@ -734,5 +734,17 @@
   "pageHeaderAutoHide": {
     "message": "Cacher la barre d'onglets (Apparait au survol avec la souris)",
     "description": ""
+  },
+  "left_align":{
+    "message":"Aligné à gauche",
+    "description": ""
+  },
+  "centered":{
+    "message":"Centré",
+    "description": ""
+  },
+  "right_align":{
+    "message":"Aligné à droite",
+    "description": ""
   }
 }
