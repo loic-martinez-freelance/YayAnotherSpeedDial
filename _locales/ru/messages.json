@@ -112,7 +112,7 @@
     "description": ""
   },
   "resetWarning": {
-    "description": ""
+    "description": "",
     "message": "Внимание, все настройки, вкладки и закладки будут удалены. Продолжить?",
   },
   "applyPexels": {
@@ -452,7 +452,7 @@
     "description": ""
   },
   "suggestionsText": {
-    "description": ""
+    "description": "",
     "message": "Если вы хотите новые фичи, темы, перевод, или просто поделиться своим мнением, воспользуйтесь формой ниже.",
   },
   "yourMessage": {
