@@ -3,9 +3,6 @@ Repository for the Yay! Another Speed Dial! extension for bug tracking and contr
 
 Download it at https://www.yayspeeddial.com/
 
-Needed translation : 
-- Russian
-
 Existing complete translations : 
 - French
 - English
