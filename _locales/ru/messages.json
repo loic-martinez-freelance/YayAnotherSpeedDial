@@ -1,0 +1,750 @@
+{
+  "extensionName": {
+    "message": "Yay! Another Speed dial!",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Классная Экспресс-панель, широко кастомизируемая, простая и стильная.",
+    "description": ""
+  },
+  "speeddialAdd": {
+    "message": "Добавить закладку",
+    "description": ""
+  },
+  "defaultTab": {
+    "message": "Новая вкладка",
+    "description": ""
+  },
+  "settings": {
+    "message": "Настройки",
+    "description": ""
+  },
+  "tabSettings": {
+    "message": "Настройки вкладок",
+    "description": ""
+  },
+  "inputRenameTab": {
+    "message": "Изменить имя вкладки",
+    "description": ""
+  },
+  "inputChangeColor": {
+    "message": "Цвет вкладки",
+    "description": ""
+  },
+  "inputChangeColorTxt": {
+    "message": "Изменить цвет",
+    "description": ""
+  },
+  "deleteTab": {
+    "message": "Удалить вкладку",
+    "description": ""
+  },
+  "deleteTabPhrase": {
+    "message": "Вы действительно хотите удалить эту вкладку и все ее закладки?",
+    "description": ""
+  },
+  "dialSettings": {
+    "message": "Заменить закладку",
+    "description": ""
+  },
+  "deleteDial": {
+    "message": "Удалить закладку",
+    "description": ""
+  },
+  "deleteDialPhrase": {
+    "message": "Вы действительно хотите удалить закладку?",
+    "description": ""
+  },
+  "save": {
+    "message": "Сохранить",
+    "description": ""
+  },
+  "cancel": {
+    "message": "Отмена",
+    "description": ""
+  },
+  "inputDialName": {
+    "message": "Имя закладки",
+    "description": ""
+  },
+  "inputDialURL": {
+    "message": "Ссызка закладки",
+    "description": ""
+  },
+  "imageDialType": {
+    "message": "Изображение",
+    "description": ""
+  },
+  "imageDialTypeAuto": {
+    "message": "Автоматически",
+    "description": ""
+  },
+  "imageDialTypeManual": {
+    "message": "По ссылке",
+    "description": ""
+  },
+  "imageDialTypeScreen": {
+    "message": "Скриншот",
+    "description": ""
+  },
+  "contextualAddTo": {
+    "message": "Добавить эту страницу во вкладку",
+    "description": ""
+  },
+  "sendTo": {
+    "message": "Отправить в другую вкладку...",
+    "description": ""
+  },
+  "themeEditor": {
+    "message": "Редактор темы",
+    "description": ""
+  },
+  "close": {
+    "message": "Закрыть",
+    "description": ""
+  },
+  "back": {
+    "message": "Назад",
+    "description": ""
+  },
+  "importWarning": {
+    "message": "Внимание, импорт заменит все настройки, вкладки и закладки. Продолжить?",
+    "description": ""
+  },
+  "resetWarning": {
+    "description": ""
+    "message": "Внимание, все настройки, вкладки и закладки будут удалены. Продолжить?",
+  },
+  "applyPexels": {
+    "message": "Применить изображение из PEXELS",
+    "description": ""
+  },
+  "applyTheme": {
+    "message": "Применить тему",
+    "description": ""
+  },
+  "openShareTheme": {
+    "message": "Поделиться моей темой",
+    "description": ""
+  },
+  "searchTheme": {
+    "message": "Искать тему",
+    "description": ""
+  },
+  "by": {
+    "message": "от",
+    "description": ""
+  },
+  "applied": {
+    "message": "Применено",
+    "description": ""
+  },
+  "times": {
+    "message": "раз",
+    "description": ""
+  },
+  "backup": {
+    "message": "Резервная копия",
+    "description": ""
+  },
+  "sync": {
+    "message": "Синхронизация",
+    "description": ""
+  },
+  "reset": {
+    "message": "Сброс",
+    "description": ""
+  },
+  "syncwith": {
+    "message": "Синхронизировать с моим аккаунтом",
+    "description": ""
+  },
+  "usesync": {
+    "message": "Синхронизировать с моим профилем Firefox",
+    "description": ""
+  },
+  "nomobile": {
+    "message": "(не работает с мобильной версией Firefox)",
+    "description": ""
+  },
+  "exportall": {
+    "message": "Полный экспорт",
+    "description": ""
+  },
+  "importall": {
+    "message": "Полный импорт",
+    "description": ""
+  },
+  "createFromBookmarks": {
+    "message": "Создать вкладку из папки закладок браузера",
+    "description": ""
+  },
+  "selectFolder": {
+    "message": "Выберите и затем проверьте папку",
+    "description": ""
+  },
+  "create": {
+    "message": "Создать",
+    "description": ""
+  },
+  "importFrom": {
+    "message": "Импорт из другого источника",
+    "description": ""
+  },
+  "importFromAnother": {
+    "message": "Импорт из другой экспресс-панели / Speed Dial",
+    "description": ""
+  },
+  "importFromSP2": {
+    "message": "Импорт из Speed Dial 2",
+    "description": ""
+  },
+  "page": {
+    "message": "Страница",
+    "description": ""
+  },
+  "bookmark": {
+    "message": "Закладка",
+    "description": ""
+  },
+  "animations": {
+    "message": "Анимация",
+    "description": ""
+  },
+  "advanced": {
+    "message": "Дополнительно",
+    "description": ""
+  },
+  "themeGallery": {
+    "message": "Галерея тем",
+    "description": ""
+  },
+  "activateCustom": {
+    "message": "Activate custom CSS",
+    "description": ""
+  },
+  "addOwnRules": {
+    "message": "Add your own rules or override existing ones.",
+    "description": ""
+  },
+  "other": {
+    "message": "Прочие",
+    "description": ""
+  },
+  "otherSettings": {
+    "message": "Прочие настройки",
+    "description": ""
+  },
+  "showAdd": {
+    "message": "Показать кнопку новой закладки",
+    "description": ""
+  },
+  "autoColor": {
+    "message": "Activate auto text color",
+    "description": ""
+  },
+  "autoColorNotice": {
+    "message": "In some cases, text color will be automatic, based on the background color",
+    "description": ""
+  },
+  "manageAnimations": {
+    "message": "Управление анимацией",
+    "description": ""
+  },
+  "enterAnimations": {
+    "message": "Bookmark enter animations",
+    "description": ""
+  },
+  "none": {
+    "message": "None",
+    "description": ""
+  },
+  "fade": {
+    "message": "Fade",
+    "description": ""
+  },
+  "zoom": {
+    "message": "Zoom",
+    "description": ""
+  },
+  "bounce": {
+    "message": "Bounce",
+    "description": ""
+  },
+  "rotate": {
+    "message": "Rotate",
+    "description": ""
+  },
+  "popup": {
+    "message": "Popup",
+    "description": ""
+  },
+  "enterDelay": {
+    "message": "Enter delay between bookmarks",
+    "description": ""
+  },
+  "seconds": {
+    "message": "seconds",
+    "description": ""
+  },
+  "exitAnimations": {
+    "message": "Bookmark exit animations",
+    "description": ""
+  },
+  "hoverAnimations": {
+    "message": "Bookmark hover animations",
+    "description": ""
+  },
+  "opacity": {
+    "message": "Opacity",
+    "description": ""
+  },
+  "grayscale": {
+    "message": "Grayscale",
+    "description": ""
+  },
+  "border": {
+    "message": "Border",
+    "description": ""
+  },
+  "zoomgrayscale": {
+    "message": "Zoom / Grayscale",
+    "description": ""
+  },
+  "zoomopacity": {
+    "message": "Zoom / Opacity",
+    "description": ""
+  },
+  "customiseBookmarks": {
+    "message": "Customize bookmarks",
+    "description": ""
+  },
+  "shape": {
+    "message": "Shape",
+    "description": ""
+  },
+  "width": {
+    "message": "Width",
+    "description": ""
+  },
+  "height": {
+    "message": "Height",
+    "description": ""
+  },
+  "padding": {
+    "message": "Padding",
+    "description": ""
+  },
+  "activateAnimations": {
+    "message": "Activate animations",
+    "description": ""
+  },
+  "radius": {
+    "message": "Radius",
+    "description": ""
+  },
+  "bookbg": {
+    "message": "Background",
+    "description": ""
+  },
+  "color": {
+    "message": "Color",
+    "description": ""
+  },
+  "size": {
+    "message": "Size",
+    "description": ""
+  },
+  "position": {
+    "message": "Position",
+    "description": ""
+  },
+  "rowWidth": {
+    "message": "Row width",
+    "description": ""
+  },
+  "marginBetweenBook": {
+    "message": "Margin between columns",
+    "description": ""
+  },
+  "marginBetweenRows": {
+    "message": "Margin between rows",
+    "description": ""
+  },
+  "customizePage": {
+    "message": "Настройки домашней страницы",
+    "description": ""
+  },
+  "wallpaper": {
+    "message": "Обои",
+    "description": ""
+  },
+  "image": {
+    "message": "Изображение",
+    "description": ""
+  },
+  "searchInPexels": {
+    "message": "Огкрыть галерею PEXELS",
+    "description": ""
+  },
+  "navbar": {
+    "message": "Панель навигации",
+    "description": ""
+  },
+  "backgroundColor": {
+    "message": "Цвет фона",
+    "description": ""
+  },
+  "selectedTabColor": {
+    "message": "Цвет выбранной вкладки",
+    "description": ""
+  },
+  "hoverTabColor": {
+    "message": "Цвет вкладки при наведении",
+    "description": ""
+  },
+  "textColor": {
+    "message": "Цвет текста",
+    "description": ""
+  },
+  "selectedTabTextColor": {
+    "message": "Цвет текста выбранной вкладки",
+    "description": ""
+  },
+  "hoverTabTextColor": {
+    "message": "Цвет текста вкладки при наведении",
+    "description": ""
+  },
+  "enableAnimations": {
+    "message": "Включить анимацию",
+    "description": ""
+  },
+  "linkToImage": {
+    "message": "Link to your wallpaper",
+    "description": ""
+  },
+  "search_image": {
+    "message": "Search image",
+    "description": ""
+  },
+  "openInTab": {
+    "message": "Open bookmarks in another tab",
+    "description": ""
+  },
+  "contribute": {
+    "message": "Поддержать меня!",
+    "description": ""
+  },
+  "enterNName": {
+    "message": "Ваше имя",
+    "description": ""
+  },
+  "noNName": {
+    "message": "Не заполняйте, если не хотите быть в списке доноров",
+    "description": ""
+  },
+  "whydonate": {
+    "message": "<h5>Зачем пожертвование?</h5>каждое пожертвование мотивирует меня развивать приложение. К тому же: <br> - Добавлять новый функционал<br> - Оплачивать сервер<br> - Создавать новые темы",
+    "description": ""
+  },
+  "suggestions": {
+    "message": "Свяжитесь со мной",
+    "description": ""
+  },
+  "suggestionsText": {
+    "description": ""
+    "message": "Если вы хотите новые фичи, темы, перевод, или просто поделиться своим мнением, воспользуйтесь формой ниже.",
+  },
+  "yourMessage": {
+    "message": "Ваше сообщение",
+    "description": ""
+  },
+  "yourEmail": {
+    "message": "Ваш email",
+    "description": ""
+  },
+  "send": {
+    "message": "Отправить",
+    "description": ""
+  },
+  "suggestionOk": {
+    "message": "<div class='text-success'>Thank you ! Your message has been sent</div>",
+    "description": ""
+  },
+  "suggestionSpam": {
+    "message": "<div class='text-danger'>Wait 5 minutes before sending a new message.</div>",
+    "description": ""
+  },
+  "discardChanges": {
+    "message": "Do you want to save your changes beforce closing the editor?",
+    "description": ""
+  },
+  "yes": {
+    "message": "Да",
+    "description": ""
+  },
+  "no": {
+    "message": "Нет",
+    "description": ""
+  },
+  "bestContributors": {
+    "message": "Best donors",
+    "description": ""
+  },
+  "freeAmount": {
+    "message": "Free amount",
+    "description": ""
+  },
+  "username": {
+    "message": "Email",
+    "description": ""
+  },
+  "password": {
+    "message": "Password",
+    "description": ""
+  },
+  "createaccount": {
+    "message": "Create account",
+    "description": ""
+  },
+  "login": {
+    "message": "Log in",
+    "description": ""
+  },
+  "forgottenpass": {
+    "message": "Reset your password",
+    "description": ""
+  },
+  "syncDesc": {
+    "message": "To sync your data between different places, please log in first.<br> If you don't have an account, please fill your Email and password then click on Create account.",
+    "description": ""
+  },
+  "loginExists": {
+    "message": "<div class='text-danger'>This address already exists.</div>",
+    "description": ""
+  },
+  "enterEmail": {
+    "message": "<div class='text-danger'>Please enter a valid Email.</div>",
+    "description": ""
+  },
+  "enterPassword": {
+    "message": "<div class='text-danger'>Please enter a password.</div>",
+    "description": ""
+  },
+  "wrongAuth": {
+    "message": "<div class='text-danger'>Bad User name / password.</div>",
+    "description": ""
+  },
+  "loggedAs": {
+    "message": "Logged as",
+    "description": ""
+  },
+  "disconnect": {
+    "message": "Log out",
+    "description": ""
+  },
+  "leaveempty": {
+    "message": "Leave empty to not change it",
+    "description": ""
+  },
+  "updateAccount": {
+    "message": "Update your account",
+    "description": ""
+  },
+  "newLogin": {
+    "message": "My new user name",
+    "description": ""
+  },
+  "newPassword": {
+    "message": "My new password",
+    "description": ""
+  },
+  "actualPassword": {
+    "message": "Confirm with my actual password",
+    "description": ""
+  },
+  "wrongold": {
+    "message": "<div class='text-danger'>Your actual password is not correct.</div>",
+    "description": ""
+  },
+  "accountUpdated": {
+    "message": "<div class='text-success'>Your account has been updated successfully.</div>",
+    "description": ""
+  },
+  "credits": {
+    "message": "About",
+    "description": ""
+  },
+  "showName": {
+    "message": "Показывать имя закладки",
+    "description": ""
+  },
+  "search": {
+    "message": "Искать закладку",
+    "description": ""
+  },
+  "next": {
+    "message": "След.",
+    "description": ""
+  },
+  "prev": {
+    "message": "Пред.",
+    "description": ""
+  },
+  "showGoogle": {
+    "message": "Показать панель поиска",
+    "description": ""
+  },
+  "searchGoogle": {
+    "message": "Search on the web with",
+    "description": ""
+  },
+  "newVersion": {
+    "message": "Новая версия!",
+    "description": ""
+  },
+  "seeWhatChanged": {
+    "message": "Check what has been changed.",
+    "description": ""
+  },
+  "changessince": {
+    "message": "Changes since last version",
+    "description": ""
+  },
+  "thanksto": {
+    "message": "Thanks to",
+    "description": ""
+  },
+  "imageDialTypeScreenshot": {
+    "message": "Screenshot",
+    "description": ""
+  },
+  "addblur": {
+    "message": "Blur",
+    "description": ""
+  },
+  "adddesaturate": {
+    "message": "Saturation",
+    "description": ""
+  },
+  "fineTune": {
+    "message": "Manually tune theme settings",
+    "description": ""
+  },
+  "screenshot_notice": {
+    "message": "Пожалуйста, кликните на закладку и подождите полной загрузки страницы, чтобы скриншот обновился.",
+    "description": ""
+  },
+  "local_file": {
+    "message": "Файл с моего компьютера",
+    "description": ""
+  },
+  "reloadDial": {
+    "message": "Обновить скриншот",
+    "description": ""
+  },
+  "screenshotChanged": {
+    "message": "<b>Hello !</b> <br><br> The screenshot system changed in this version. Screenshots are taken by the browser and work on every websites.<br><br>Current screenshot can show blank but will be updated as soon as you visit the website.<br><br>If you have an account for synchronization, you can disable screenshot synchronization in the settings.<br><br><div style='text-align:right'>Loïc</div>",
+    "description": ""
+  },
+  "syncOptions": {
+    "message": "Synchronization settings",
+    "description": ""
+  },
+  "allowSyncScreenshot": {
+    "message": "Synchronize local images and screenshots",
+    "description": ""
+  },
+  "showLastTab": {
+    "message": "Show the last selected tab at opening",
+    "description": ""
+  },
+  "defaultFolder": {
+    "message": "Default folder image",
+    "description": ""
+  },
+  "addFolder": {
+    "message": "Add a folder",
+    "description": ""
+  },
+  "sendToTop": {
+    "message": "Send to parent folder",
+    "description": ""
+  },
+  "refreshForThisTab": {
+    "message": "Обновить скриншот для данной закладки",
+    "description": ""
+  },
+  "help": {
+    "message": "Помощь",
+    "description": ""
+  },
+  "general": {
+    "message": "General",
+    "description": ""
+  },
+  "openAllDials": {
+    "message": "Open all bookmarks for this tab",
+    "description": ""
+  },
+  "openWallet": {
+    "message": "Open wallet",
+    "description": ""
+  },
+  "changeAllImageType": {
+  "message": "Change all image type for bookmarks in this tab",
+  "description": ""
+  },
+  "donotchange": {
+    "message": "Do not change",
+    "description": ""
+  },
+  "widthInPercent": {
+    "message": "Width in percent",
+    "description": ""
+  },
+  "widthInPixel": {
+    "message": "Width in pixel (will not be responsive)",
+    "description": ""
+  },
+  "dialtext": {
+    "message": "Bookmark title",
+    "description": ""
+  },
+  "dialtextcolor": {
+    "message": "Text color",
+    "description": ""
+  },
+  "dialstextbgcolor": {
+    "message": "Background color",
+    "description": ""
+  },
+  "addBlank": {
+    "message": "Blank space",
+    "description": ""
+  },
+  "importFromOldsd": {
+    "message": "Speeddial.uworks.net",
+    "description": ""
+  },
+  "openInBackground": {
+    "message": "Открыть в фоновой вкладке",
+    "description": ""
+  },
+  "pageHeaderAutoHide": {
+    "message": "Скрыть панель вкладок (показать при наведении курсора)",
+    "description": ""
+  },
+  "left_align":{
+    "message":"Align left",
+    "description": ""
+  },
+  "centered":{
+    "message":"Center",
+    "description": ""
+  },
+  "right_align":{
+    "message":"Align right",
+    "description": ""
+  }
+}
