@@ -220,11 +220,11 @@
     "description": ""
   },
   "activateCustom": {
-    "message": "Activate custom CSS",
+    "message": "Активировать пользовательский CSS",
     "description": ""
   },
   "addOwnRules": {
-    "message": "Add your own rules or override existing ones.",
+    "message": "Добавьте свои собственные правила или переопределите существующие.",
     "description": ""
   },
   "other": {
@@ -240,11 +240,11 @@
     "description": ""
   },
   "autoColor": {
-    "message": "Activate auto text color",
+    "message": "Активировать автоматическое определение цвета текста",
     "description": ""
   },
   "autoColorNotice": {
-    "message": "In some cases, text color will be automatic, based on the background color",
+    "message": "В некоторых случаях цвет текста будет применяться автоматически, в зависимости от цвета фона",
     "description": ""
   },
   "manageAnimations": {
@@ -256,27 +256,27 @@
     "description": ""
   },
   "none": {
-    "message": "None",
+    "message": "Без анимации",
     "description": ""
   },
   "fade": {
-    "message": "Fade",
+    "message": "Затухание",
     "description": ""
   },
   "zoom": {
-    "message": "Zoom",
+    "message": "Увеличение",
     "description": ""
   },
   "bounce": {
-    "message": "Bounce",
+    "message": "Скачок",
     "description": ""
   },
   "rotate": {
-    "message": "Rotate",
+    "message": "Вращение",
     "description": ""
   },
   "popup": {
-    "message": "Popup",
+    "message": "Выскакивание",
     "description": ""
   },
   "enterDelay": {
@@ -284,7 +284,7 @@
     "description": ""
   },
   "seconds": {
-    "message": "seconds",
+    "message": "секунд",
     "description": ""
   },
   "exitAnimations": {
@@ -316,23 +316,23 @@
     "description": ""
   },
   "customiseBookmarks": {
-    "message": "Customize bookmarks",
+    "message": "Настройка закладок",
     "description": ""
   },
   "shape": {
-    "message": "Shape",
+    "message": "Поделиться",
     "description": ""
   },
   "width": {
-    "message": "Width",
+    "message": "Ширина",
     "description": ""
   },
   "height": {
-    "message": "Height",
+    "message": "Высота",
     "description": ""
   },
   "padding": {
-    "message": "Padding",
+    "message": "Отступ",
     "description": ""
   },
   "activateAnimations": {
@@ -340,35 +340,35 @@
     "description": ""
   },
   "radius": {
-    "message": "Radius",
+    "message": "Радиус",
     "description": ""
   },
   "bookbg": {
-    "message": "Background",
+    "message": "Фон",
     "description": ""
   },
   "color": {
-    "message": "Color",
+    "message": "Цвет",
     "description": ""
   },
   "size": {
-    "message": "Size",
+    "message": "Размер",
     "description": ""
   },
   "position": {
-    "message": "Position",
+    "message": "Позиция",
     "description": ""
   },
   "rowWidth": {
-    "message": "Row width",
+    "message": "Ширина строки",
     "description": ""
   },
   "marginBetweenBook": {
-    "message": "Margin between columns",
+    "message": "Отступ между колонок",
     "description": ""
   },
   "marginBetweenRows": {
-    "message": "Margin between rows",
+    "message": "Отступ между строк",
     "description": ""
   },
   "customizePage": {
@@ -420,15 +420,15 @@
     "description": ""
   },
   "linkToImage": {
-    "message": "Link to your wallpaper",
+    "message": "Ссылка на вашу картинку",
     "description": ""
   },
   "search_image": {
-    "message": "Search image",
+    "message": "Поиск изображения",
     "description": ""
   },
   "openInTab": {
-    "message": "Open bookmarks in another tab",
+    "message": "Открывать закладки в новой вкладке",
     "description": ""
   },
   "contribute": {
@@ -448,7 +448,7 @@
     "description": ""
   },
   "suggestions": {
-    "message": "Свяжитесь со мной",
+    "message": "Свяжиться со мной",
     "description": ""
   },
   "suggestionsText": {
@@ -468,15 +468,15 @@
     "description": ""
   },
   "suggestionOk": {
-    "message": "<div class='text-success'>Thank you ! Your message has been sent</div>",
+    "message": "<div class='text-success'>Спасибо! Ваше сообщение было отправлено</div>",
     "description": ""
   },
   "suggestionSpam": {
-    "message": "<div class='text-danger'>Wait 5 minutes before sending a new message.</div>",
+    "message": "<div class='text-danger'>Подождите 5 минут перед отправкой нового сообщения.</div>",
     "description": ""
   },
   "discardChanges": {
-    "message": "Do you want to save your changes beforce closing the editor?",
+    "message": "Вы хотите сохранить изменения перед закрытием редактора?",
     "description": ""
   },
   "yes": {
@@ -492,7 +492,7 @@
     "description": ""
   },
   "freeAmount": {
-    "message": "Free amount",
+    "message": "Своя сумма",
     "description": ""
   },
   "username": {
@@ -500,19 +500,19 @@
     "description": ""
   },
   "password": {
-    "message": "Password",
+    "message": "Пароль",
     "description": ""
   },
   "createaccount": {
-    "message": "Create account",
+    "message": "Создать аккаунт",
     "description": ""
   },
   "login": {
-    "message": "Log in",
+    "message": "Войти",
     "description": ""
   },
   "forgottenpass": {
-    "message": "Reset your password",
+    "message": "Сбросить пароль",
     "description": ""
   },
   "syncDesc": {
@@ -520,43 +520,43 @@
     "description": ""
   },
   "loginExists": {
-    "message": "<div class='text-danger'>This address already exists.</div>",
+    "message": "<div class='text-danger'>Этот адрес уже существует.</div>",
     "description": ""
   },
   "enterEmail": {
-    "message": "<div class='text-danger'>Please enter a valid Email.</div>",
+    "message": "<div class='text-danger'>Пожалуйста, введите действительный адрес электронной почты.</div>",
     "description": ""
   },
   "enterPassword": {
-    "message": "<div class='text-danger'>Please enter a password.</div>",
+    "message": "<div class='text-danger'>Пожалуйста, введите пароль.</div>",
     "description": ""
   },
   "wrongAuth": {
-    "message": "<div class='text-danger'>Bad User name / password.</div>",
+    "message": "<div class='text-danger'>Не верное имя или пароль.</div>",
     "description": ""
   },
   "loggedAs": {
-    "message": "Logged as",
+    "message": "Вошли как",
     "description": ""
   },
   "disconnect": {
-    "message": "Log out",
+    "message": "Выйти",
     "description": ""
   },
   "leaveempty": {
-    "message": "Leave empty to not change it",
+    "message": "Оставте пустым, если не хотите изменить пароль",
     "description": ""
   },
   "updateAccount": {
-    "message": "Update your account",
+    "message": "Обновить свою учетную запись",
     "description": ""
   },
   "newLogin": {
-    "message": "My new user name",
+    "message": "Мое новое имя пользователя",
     "description": ""
   },
   "newPassword": {
-    "message": "My new password",
+    "message": "Мой новый пароль",
     "description": ""
   },
   "actualPassword": {
@@ -564,11 +564,11 @@
     "description": ""
   },
   "wrongold": {
-    "message": "<div class='text-danger'>Your actual password is not correct.</div>",
+    "message": "<div class='text-danger'>Ваш пароль неверен.</div>",
     "description": ""
   },
   "accountUpdated": {
-    "message": "<div class='text-success'>Your account has been updated successfully.</div>",
+    "message": "<div class='text-success'>Ваша учетная запись успешно обновлена.</div>",
     "description": ""
   },
   "credits": {
@@ -596,7 +596,7 @@
     "description": ""
   },
   "searchGoogle": {
-    "message": "Search on the web with",
+    "message": "Поиск в Интернете с помощью",
     "description": ""
   },
   "newVersion": {
@@ -604,11 +604,11 @@
     "description": ""
   },
   "seeWhatChanged": {
-    "message": "Check what has been changed.",
+    "message": "Прочитать список изменений.",
     "description": ""
   },
   "changessince": {
-    "message": "Changes since last version",
+    "message": "Что изменилось с последней версии",
     "description": ""
   },
   "thanksto": {
@@ -616,7 +616,7 @@
     "description": ""
   },
   "imageDialTypeScreenshot": {
-    "message": "Screenshot",
+    "message": "Скриншот",
     "description": ""
   },
   "addblur": {
@@ -644,15 +644,15 @@
     "description": ""
   },
   "screenshotChanged": {
-    "message": "<b>Hello !</b> <br><br> The screenshot system changed in this version. Screenshots are taken by the browser and work on every websites.<br><br>Current screenshot can show blank but will be updated as soon as you visit the website.<br><br>If you have an account for synchronization, you can disable screenshot synchronization in the settings.<br><br><div style='text-align:right'>Loïc</div>",
+    "message": "<b>Привет!</b> <br><br> В этой версии изменена система скриншотов. Скриншоты делаются браузером и работают на всех сайтах.<br><br>Текущий скриншот может отображаться пустым, но обновится сразу же после посещения веб-сайта.<br><br>Если у вас есть учетная запись для синхронизации, вы может отключить синхронизацию экрана в настройках.<br><br><div style='text-align:right'>Loïc</div>",
     "description": ""
   },
   "syncOptions": {
-    "message": "Synchronization settings",
+    "message": "Настройки синхронизации",
     "description": ""
   },
   "allowSyncScreenshot": {
-    "message": "Synchronize local images and screenshots",
+    "message": "Синхронизировать локальные изображения и скриншоты",
     "description": ""
   },
   "showLastTab": {
@@ -664,11 +664,11 @@
     "description": ""
   },
   "addFolder": {
-    "message": "Add a folder",
+    "message": "Добавить папку",
     "description": ""
   },
   "sendToTop": {
-    "message": "Send to parent folder",
+    "message": "Отправить в родительскую папку",
     "description": ""
   },
   "refreshForThisTab": {
@@ -680,7 +680,7 @@
     "description": ""
   },
   "general": {
-    "message": "General",
+    "message": "Главное",
     "description": ""
   },
   "openAllDials": {
@@ -688,7 +688,7 @@
     "description": ""
   },
   "openWallet": {
-    "message": "Open wallet",
+    "message": "Открыть кошелек",
     "description": ""
   },
   "changeAllImageType": {
@@ -696,27 +696,27 @@
   "description": ""
   },
   "donotchange": {
-    "message": "Do not change",
+    "message": "Не менять",
     "description": ""
   },
   "widthInPercent": {
-    "message": "Width in percent",
+    "message": "Ширина в процентах",
     "description": ""
   },
   "widthInPixel": {
-    "message": "Width in pixel (will not be responsive)",
+    "message": "Ширина в пикселях (will not be responsive)",
     "description": ""
   },
   "dialtext": {
-    "message": "Bookmark title",
+    "message": "Название закладки",
     "description": ""
   },
   "dialtextcolor": {
-    "message": "Text color",
+    "message": "Цвет текста",
     "description": ""
   },
   "dialstextbgcolor": {
-    "message": "Background color",
+    "message": "Цвет фона",
     "description": ""
   },
   "addBlank": {
@@ -736,15 +736,15 @@
     "description": ""
   },
   "left_align":{
-    "message":"Align left",
+    "message":"Выровнять по левому краю",
     "description": ""
   },
   "centered":{
-    "message":"Center",
+    "message":"По центру",
     "description": ""
   },
   "right_align":{
-    "message":"Align right",
+    "message":"Выровнять по правому краю",
     "description": ""
   }
 }
