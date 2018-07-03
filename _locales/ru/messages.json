@@ -68,7 +68,7 @@
     "description": ""
   },
   "inputDialURL": {
-    "message": "Ссызка закладки",
+    "message": "Ссылка закладки",
     "description": ""
   },
   "imageDialType": {
@@ -448,7 +448,7 @@
     "description": ""
   },
   "suggestions": {
-    "message": "Свяжиться со мной",
+    "message": "Связаться со мной",
     "description": ""
   },
   "suggestionsText": {
