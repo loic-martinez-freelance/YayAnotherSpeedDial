@@ -252,7 +252,7 @@
     "description": ""
   },
   "enterAnimations": {
-    "message": "Bookmark enter animations",
+    "message": "Анимация появления закладок",
     "description": ""
   },
   "none": {
@@ -280,7 +280,7 @@
     "description": ""
   },
   "enterDelay": {
-    "message": "Enter delay between bookmarks",
+    "message": "Установите задержку между появлением закладок",
     "description": ""
   },
   "seconds": {
@@ -288,31 +288,31 @@
     "description": ""
   },
   "exitAnimations": {
-    "message": "Bookmark exit animations",
+    "message": "Анимация закрытия закладок",
     "description": ""
   },
   "hoverAnimations": {
-    "message": "Bookmark hover animations",
+    "message": "Анимация закладок при наведении",
     "description": ""
   },
   "opacity": {
-    "message": "Opacity",
+    "message": "Затемнение",
     "description": ""
   },
   "grayscale": {
-    "message": "Grayscale",
+    "message": "Градации серого",
     "description": ""
   },
   "border": {
-    "message": "Border",
+    "message": "Обрамление",
     "description": ""
   },
   "zoomgrayscale": {
-    "message": "Zoom / Grayscale",
+    "message": "Увеличение / Градации серого",
     "description": ""
   },
   "zoomopacity": {
-    "message": "Zoom / Opacity",
+    "message": "Увеличение / Размытие",
     "description": ""
   },
   "customiseBookmarks": {
@@ -336,7 +336,7 @@
     "description": ""
   },
   "activateAnimations": {
-    "message": "Activate animations",
+    "message": "Активировать анимацию",
     "description": ""
   },
   "radius": {
@@ -460,7 +460,7 @@
     "description": ""
   },
   "yourEmail": {
-    "message": "Ваш email",
+    "message": "Ваш Email",
     "description": ""
   },
   "send": {
@@ -488,7 +488,7 @@
     "description": ""
   },
   "bestContributors": {
-    "message": "Best donors",
+    "message": "Лучшие поддержавшие",
     "description": ""
   },
   "freeAmount": {
@@ -516,7 +516,7 @@
     "description": ""
   },
   "syncDesc": {
-    "message": "To sync your data between different places, please log in first.<br> If you don't have an account, please fill your Email and password then click on Create account.",
+    "message": "Чтобы синхронизировать свою информацию между разными местами, сначала войдите в систему. <br> Если у вас нет учетной записи, пожалуйста, введите адрес электронной почты и пароль, далее нажмите кнопку «Создать учетную запись».",
     "description": ""
   },
   "loginExists": {
@@ -560,7 +560,7 @@
     "description": ""
   },
   "actualPassword": {
-    "message": "Confirm with my actual password",
+    "message": "Подтвердите с помощью текущего пароля",
     "description": ""
   },
   "wrongold": {
@@ -572,7 +572,7 @@
     "description": ""
   },
   "credits": {
-    "message": "About",
+    "message": "О расширении",
     "description": ""
   },
   "showName": {
@@ -612,7 +612,7 @@
     "description": ""
   },
   "thanksto": {
-    "message": "Thanks to",
+    "message": "Отдельное спасибо",
     "description": ""
   },
   "imageDialTypeScreenshot": {
@@ -620,15 +620,15 @@
     "description": ""
   },
   "addblur": {
-    "message": "Blur",
+    "message": "Размытие",
     "description": ""
   },
   "adddesaturate": {
-    "message": "Saturation",
+    "message": "Насыщенность",
     "description": ""
   },
   "fineTune": {
-    "message": "Manually tune theme settings",
+    "message": "Настройка темы вручную",
     "description": ""
   },
   "screenshot_notice": {
@@ -656,11 +656,11 @@
     "description": ""
   },
   "showLastTab": {
-    "message": "Show the last selected tab at opening",
+    "message": "При запуске открывать последнюю загруженную страницу",
     "description": ""
   },
   "defaultFolder": {
-    "message": "Default folder image",
+    "message": "Изображение папки по умолчанию",
     "description": ""
   },
   "addFolder": {
@@ -684,7 +684,7 @@
     "description": ""
   },
   "openAllDials": {
-    "message": "Open all bookmarks for this tab",
+    "message": "Открыть все закладки в данной вкладке",
     "description": ""
   },
   "openWallet": {
@@ -692,7 +692,7 @@
     "description": ""
   },
   "changeAllImageType": {
-  "message": "Change all image type for bookmarks in this tab",
+  "message": "Изменить тип изображения для всех закладок в данной вкладке",
   "description": ""
   },
   "donotchange": {
@@ -704,7 +704,7 @@
     "description": ""
   },
   "widthInPixel": {
-    "message": "Ширина в пикселях (will not be responsive)",
+    "message": "Ширина в пикселях (может выходить за пределы экрана)",
     "description": ""
   },
   "dialtext": {
@@ -720,7 +720,7 @@
     "description": ""
   },
   "addBlank": {
-    "message": "Blank space",
+    "message": "Пустое пространство",
     "description": ""
   },
   "importFromOldsd": {
