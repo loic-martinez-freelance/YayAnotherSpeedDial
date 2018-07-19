@@ -704,7 +704,7 @@
     "description": ""
   },
   "widthInPixel": {
-    "message": "像素寬度（可能會超出螢幕顯示範圍）"
+    "message": "像素寬度（可能會超出螢幕顯示範圍）",
     "description": ""
   },
   "dialtext": {
