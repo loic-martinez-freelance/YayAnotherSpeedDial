@@ -224,7 +224,7 @@
     "description": ""
   },
   "addOwnRules": {
-    "message": "添加您自己的規則或覆蓋現存規則",
+    "message": "新增您自己的規則或覆蓋現存規則",
     "description": ""
   },
   "other": {
@@ -532,7 +532,7 @@
     "description": ""
   },
   "wrongAuth": {
-    "message": "<div class='text-danger'>錯誤的用戶名稱 / 密碼.</div>",
+    "message": "<div class='text-danger'>錯誤的Email / 密碼。</div>",
     "description": ""
   },
   "loggedAs": {
@@ -552,7 +552,7 @@
     "description": ""
   },
   "newLogin": {
-    "message": "我的新用戶名稱",
+    "message": "我的新Email地址",
     "description": ""
   },
   "newPassword": {
@@ -560,11 +560,11 @@
     "description": ""
   },
   "actualPassword": {
-    "message": "輸入原始密碼以確認",
+    "message": "輸入舊密碼以確認",
     "description": ""
   },
   "wrongold": {
-    "message": "<div class='text-danger'>您的原始密碼不正確。</div>",
+    "message": "<div class='text-danger'>您的舊密碼不正確。</div>",
     "description": ""
   },
   "accountUpdated": {
@@ -640,7 +640,7 @@
     "description": ""
   },
   "reloadDial": {
-    "message": "重整螢幕擷圖",
+    "message": "更新螢幕擷圖",
     "description": ""
   },
   "screenshotChanged": {
@@ -704,7 +704,7 @@
     "description": ""
   },
   "widthInPixel": {
-    "message": "像素寬度（無法自適應）",
+    "message": "像素寬度（可能會超出螢幕顯示範圍）"
     "description": ""
   },
   "dialtext": {
@@ -748,15 +748,15 @@
     "description": ""
   },
   "account_created":{
-    "message":"<b>Your account has been created!</b> <br><br> With this account, your bookmarks will be synced accross your devices. <br><br> Using this account is free and I will make sure that it stay like that.<br> Meanwhile, you can help me support server costs by donating.<br><br> Thanks!",
+    "message":"<b>您已順利建立帳戶！</b> <br><br>透過這個帳戶，您可以在不同裝置間同步書籤資料。<br><br>使用此帳戶是免費的，我會設法確保之後也能維持如此。<br>同時，您可以藉由捐款幫助我支付伺服器開銷。<br><br>感謝您！",
     "description": ""
   },
   "ok_help":{
-    "message":"Yes I will help!",
+    "message":"好我會幫忙！",
     "description": ""
   },
   "no_help":{
-    "message":"No thank, maybe later",
+    "message":"不了謝謝，之後再說",
     "description": ""
   }
 }
