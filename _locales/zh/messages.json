@@ -1,0 +1,762 @@
+{
+  "extensionName": {
+    "message": "Yay! Another Speed dial!",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "一個聚焦於風格、簡潔，高自訂性的超酷快速啟動附加元件。",
+    "description": ""
+  },
+  "speeddialAdd": {
+    "message": "加入書籤",
+    "description": ""
+  },
+  "defaultTab": {
+    "message": "新頁籤",
+    "description": ""
+  },
+  "settings": {
+    "message": "設定",
+    "description": ""
+  },
+  "tabSettings": {
+    "message": "頁籤設定",
+    "description": ""
+  },
+  "inputRenameTab": {
+    "message": "改變頁籤名稱",
+    "description": ""
+  },
+  "inputChangeColor": {
+    "message": "頁籤色彩",
+    "description": ""
+  },
+  "inputChangeColorTxt": {
+    "message": "改變色彩",
+    "description": ""
+  },
+  "deleteTab": {
+    "message": "刪除頁籤",
+    "description": ""
+  },
+  "deleteTabPhrase": {
+    "message": "您真的要刪除這個頁籤及其所有書籤嗎？",
+    "description": ""
+  },
+  "dialSettings": {
+    "message": "修改書籤",
+    "description": ""
+  },
+  "deleteDial": {
+    "message": "刪除書籤",
+    "description": ""
+  },
+  "deleteDialPhrase": {
+    "message": "您真的要刪除這個書籤嗎？",
+    "description": ""
+  },
+  "save": {
+    "message": "儲存",
+    "description": ""
+  },
+  "cancel": {
+    "message": "取消",
+    "description": ""
+  },
+  "inputDialName": {
+    "message": "書籤名稱",
+    "description": ""
+  },
+  "inputDialURL": {
+    "message": "書籤連結",
+    "description": ""
+  },
+  "imageDialType": {
+    "message": "縮圖",
+    "description": ""
+  },
+  "imageDialTypeAuto": {
+    "message": "自動",
+    "description": ""
+  },
+  "imageDialTypeManual": {
+    "message": "從連結",
+    "description": ""
+  },
+  "imageDialTypeScreen": {
+    "message": "螢幕擷圖",
+    "description": ""
+  },
+  "contextualAddTo": {
+    "message": "將此頁面加入頁籤",
+    "description": ""
+  },
+  "sendTo": {
+    "message": "傳送至其他頁籤",
+    "description": ""
+  },
+  "themeEditor": {
+    "message": "編輯佈景主題",
+    "description": ""
+  },
+  "close": {
+    "message": "關閉",
+    "description": ""
+  },
+  "back": {
+    "message": "返回",
+    "description": ""
+  },
+  "importWarning": {
+    "message": "警告！此匯入將取代目前所有設定、頁籤及書籤。確定要繼續嗎？",
+    "description": ""
+  },
+  "resetWarning": {
+    "message": "警告！所有設定、頁籤及書籤將被刪除。確定要繼續嗎？",
+    "description": ""
+  },
+  "applyPexels": {
+    "message": "套用PEXELS圖片",
+    "description": ""
+  },
+  "applyTheme": {
+    "message": "套用佈景主題",
+    "description": ""
+  },
+  "openShareTheme": {
+    "message": "分享我的佈景主題",
+    "description": ""
+  },
+  "searchTheme": {
+    "message": "搜尋佈景主題",
+    "description": ""
+  },
+  "by": {
+    "message": "by",
+    "description": ""
+  },
+  "applied": {
+    "message": "套用",
+    "description": ""
+  },
+  "times": {
+    "message": "times",
+    "description": ""
+  },
+  "backup": {
+    "message": "備份",
+    "description": ""
+  },
+  "sync": {
+    "message": "同步",
+    "description": ""
+  },
+  "reset": {
+    "message": "重置",
+    "description": ""
+  },
+  "syncwith": {
+    "message": "同步帳戶",
+    "description": ""
+  },
+  "usesync": {
+    "message": "使用Firefox設定檔同步",
+    "description": ""
+  },
+  "nomobile": {
+    "message": "（無法在行動版Firefox上使用）",
+    "description": ""
+  },
+  "exportall": {
+    "message": "全部匯出",
+    "description": ""
+  },
+  "importall": {
+    "message": "全部匯入",
+    "description": ""
+  },
+  "createFromBookmarks": {
+    "message": "以瀏覽器書籤的資料夾新增一個頁籤",
+    "description": ""
+  },
+  "selectFolder": {
+    "message": "選擇一個資料夾並確認",
+    "description": ""
+  },
+  "create": {
+    "message": "新增",
+    "description": ""
+  },
+  "importFrom": {
+    "message": "自其他來源匯入",
+    "description": ""
+  },
+  "importFromAnother": {
+    "message": "自其他快速啟動附加元件中匯入您的頁籤及書籤",
+    "description": ""
+  },
+  "importFromSP2": {
+    "message": "從Speed Dial 2匯入",
+    "description": ""
+  },
+  "page": {
+    "message": "頁面",
+    "description": ""
+  },
+  "bookmark": {
+    "message": "書籤",
+    "description": ""
+  },
+  "animations": {
+    "message": "動畫",
+    "description": ""
+  },
+  "advanced": {
+    "message": "進階",
+    "description": ""
+  },
+  "themeGallery": {
+    "message": "主題藝廊",
+    "description": ""
+  },
+  "activateCustom": {
+    "message": "啟用自訂CSS",
+    "description": ""
+  },
+  "addOwnRules": {
+    "message": "添加您自己的規則或覆蓋現存規則",
+    "description": ""
+  },
+  "other": {
+    "message": "其它",
+    "description": ""
+  },
+  "otherSettings": {
+    "message": "其它設定",
+    "description": ""
+  },
+  "showAdd": {
+    "message": "顯示「新增書籤」按鈕",
+    "description": ""
+  },
+  "autoColor": {
+    "message": "啟用自動文字顏色",
+    "description": ""
+  },
+  "autoColorNotice": {
+    "message": "某些情況下，文字顏色將基於背景色彩而自動變化",
+    "description": ""
+  },
+  "manageAnimations": {
+    "message": "管理動畫",
+    "description": ""
+  },
+  "enterAnimations": {
+    "message": "書籤出場的動畫",
+    "description": ""
+  },
+  "none": {
+    "message": "無",
+    "description": ""
+  },
+  "fade": {
+    "message": "淡入淡出",
+    "description": ""
+  },
+  "zoom": {
+    "message": "縮放",
+    "description": ""
+  },
+  "bounce": {
+    "message": "彈跳",
+    "description": ""
+  },
+  "rotate": {
+    "message": "旋轉",
+    "description": ""
+  },
+  "popup": {
+    "message": "搖擺",
+    "description": ""
+  },
+  "enterDelay": {
+    "message": "書籤出場的接續時間",
+    "description": ""
+  },
+  "seconds": {
+    "message": "秒",
+    "description": ""
+  },
+  "exitAnimations": {
+    "message": "書籤離場的動畫",
+    "description": ""
+  },
+  "hoverAnimations": {
+    "message": "游標滑入書籤的動畫",
+    "description": ""
+  },
+  "opacity": {
+    "message": "不透明",
+    "description": ""
+  },
+  "grayscale": {
+    "message": "灰階",
+    "description": ""
+  },
+  "border": {
+    "message": "邊框",
+    "description": ""
+  },
+  "zoomgrayscale": {
+    "message": "縮放 / 灰階",
+    "description": ""
+  },
+  "zoomopacity": {
+    "message": "縮放 / 不透明",
+    "description": ""
+  },
+  "customiseBookmarks": {
+    "message": "自訂書籤",
+    "description": ""
+  },
+  "shape": {
+    "message": "外型",
+    "description": ""
+  },
+  "width": {
+    "message": "寬度",
+    "description": ""
+  },
+  "height": {
+    "message": "高度",
+    "description": ""
+  },
+  "padding": {
+    "message": "留白",
+    "description": ""
+  },
+  "activateAnimations": {
+    "message": "啟用動畫",
+    "description": ""
+  },
+  "radius": {
+    "message": "弧度",
+    "description": ""
+  },
+  "bookbg": {
+    "message": "背景",
+    "description": ""
+  },
+  "color": {
+    "message": "色彩",
+    "description": ""
+  },
+  "size": {
+    "message": "寬度",
+    "description": ""
+  },
+  "position": {
+    "message": "位置",
+    "description": ""
+  },
+  "rowWidth": {
+    "message": "列寬",
+    "description": ""
+  },
+  "marginBetweenBook": {
+    "message": "行間距",
+    "description": ""
+  },
+  "marginBetweenRows": {
+    "message": "列間距",
+    "description": ""
+  },
+  "customizePage": {
+    "message": "自訂您的首頁",
+    "description": ""
+  },
+  "wallpaper": {
+    "message": "桌布",
+    "description": ""
+  },
+  "image": {
+    "message": "圖片",
+    "description": ""
+  },
+  "searchInPexels": {
+    "message": "開啟PEXELS畫廊",
+    "description": ""
+  },
+  "navbar": {
+    "message": "導覽列",
+    "description": ""
+  },
+  "backgroundColor": {
+    "message": "背景色彩",
+    "description": ""
+  },
+  "selectedTabColor": {
+    "message": "已選取頁籤的顏色",
+    "description": ""
+  },
+  "hoverTabColor": {
+    "message": "游標滑入頁籤的顏色",
+    "description": ""
+  },
+  "textColor": {
+    "message": "文字顏色",
+    "description": ""
+  },
+  "selectedTabTextColor": {
+    "message": "已選取頁籤的文字顏色",
+    "description": ""
+  },
+  "hoverTabTextColor": {
+    "message": "游標滑入頁籤的文字顏色",
+    "description": ""
+  },
+  "enableAnimations": {
+    "message": "使用動畫",
+    "description": ""
+  },
+  "linkToImage": {
+    "message": "桌布連結",
+    "description": ""
+  },
+  "search_image": {
+    "message": "搜尋圖片",
+    "description": ""
+  },
+  "openInTab": {
+    "message": "在新分頁開啟書籤",
+    "description": ""
+  },
+  "contribute": {
+    "message": "幫助我！",
+    "description": ""
+  },
+  "enterNName": {
+    "message": "您的大名",
+    "description": ""
+  },
+  "noNName": {
+    "message": "若您不願意出現在「超棒贊助者」名單內，請維持此欄空白",
+    "description": ""
+  },
+  "whydonate": {
+    "message": "<h5>為何需要捐獻？</h5>每筆捐款都會激勵我繼續開發此應用，並且: <br>－帶來新功能<br>－抵付伺服器開銷<br>－設計新的佈景主題",
+    "description": ""
+  },
+  "suggestions": {
+    "message": "與我聯繫",
+    "description": ""
+  },
+  "suggestionsText": {
+    "message": "若您想看到某種功能、獨特的佈景主題、翻譯，或給予任何意見，別猶豫，使用下方表單傳送意見吧。",
+    "description": ""
+  },
+  "yourMessage": {
+    "message": "您的訊息",
+    "description": ""
+  },
+  "yourEmail": {
+    "message": "您的Email",
+    "description": ""
+  },
+  "send": {
+    "message": "寄送",
+    "description": ""
+  },
+  "suggestionOk": {
+    "message": "<div class='text-success'>感謝！您的訊息已傳送</div>",
+    "description": ""
+  },
+  "suggestionSpam": {
+    "message": "<div class='text-danger'>請稍待五分鐘再寄送下一則訊息。</div>",
+    "description": ""
+  },
+  "discardChanges": {
+    "message": "即將關閉編輯器，您是否要儲存變更？",
+    "description": ""
+  },
+  "yes": {
+    "message": "是",
+    "description": ""
+  },
+  "no": {
+    "message": "否",
+    "description": ""
+  },
+  "bestContributors": {
+    "message": "超棒贊助者",
+    "description": ""
+  },
+  "freeAmount": {
+    "message": "自由贊助",
+    "description": ""
+  },
+  "username": {
+    "message": "Email",
+    "description": ""
+  },
+  "password": {
+    "message": "密碼",
+    "description": ""
+  },
+  "createaccount": {
+    "message": "建立帳戶",
+    "description": ""
+  },
+  "login": {
+    "message": "登入",
+    "description": ""
+  },
+  "forgottenpass": {
+    "message": "重置密碼",
+    "description": ""
+  },
+  "syncDesc": {
+    "message": "請先登入，以便在不同點間同步數據。<br>若您尚未擁有帳戶，請填入Email及密碼並點選「建立帳戶」。",
+    "description": ""
+  },
+  "loginExists": {
+    "message": "<div class='text-danger'>此Email已被使用。</div>",
+    "description": ""
+  },
+  "enterEmail": {
+    "message": "<div class='text-danger'>請填入有效Email。</div>",
+    "description": ""
+  },
+  "enterPassword": {
+    "message": "<div class='text-danger'>請填入密碼。</div>",
+    "description": ""
+  },
+  "wrongAuth": {
+    "message": "<div class='text-danger'>錯誤的用戶名稱 / 密碼.</div>",
+    "description": ""
+  },
+  "loggedAs": {
+    "message": "登入為",
+    "description": ""
+  },
+  "disconnect": {
+    "message": "登出",
+    "description": ""
+  },
+  "leaveempty": {
+    "message": "不欲變更的話請維持空白",
+    "description": ""
+  },
+  "updateAccount": {
+    "message": "更新您的帳戶",
+    "description": ""
+  },
+  "newLogin": {
+    "message": "我的新用戶名稱",
+    "description": ""
+  },
+  "newPassword": {
+    "message": "我的新密碼",
+    "description": ""
+  },
+  "actualPassword": {
+    "message": "輸入原始密碼以確認",
+    "description": ""
+  },
+  "wrongold": {
+    "message": "<div class='text-danger'>您的原始密碼不正確。</div>",
+    "description": ""
+  },
+  "accountUpdated": {
+    "message": "<div class='text-success'>您的帳戶已成功更新。</div>",
+    "description": ""
+  },
+  "credits": {
+    "message": "關於",
+    "description": ""
+  },
+  "showName": {
+    "message": "顯示書籤名稱",
+    "description": ""
+  },
+  "search": {
+    "message": "搜尋書籤",
+    "description": ""
+  },
+  "next": {
+    "message": "下一頁",
+    "description": ""
+  },
+  "prev": {
+    "message": "前一頁",
+    "description": ""
+  },
+  "showGoogle": {
+    "message": "顯示搜尋列",
+    "description": ""
+  },
+  "searchGoogle": {
+    "message": "搜尋網路資訊：",
+    "description": ""
+  },
+  "newVersion": {
+    "message": "新版本！",
+    "description": ""
+  },
+  "seeWhatChanged": {
+    "message": "看看有什麼改變。",
+    "description": ""
+  },
+  "changessince": {
+    "message": "自前一個版本作出的改變",
+    "description": ""
+  },
+  "thanksto": {
+    "message": "感謝：",
+    "description": ""
+  },
+  "imageDialTypeScreenshot": {
+    "message": "螢幕擷圖",
+    "description": ""
+  },
+  "addblur": {
+    "message": "模糊度",
+    "description": ""
+  },
+  "adddesaturate": {
+    "message": "飽和度",
+    "description": ""
+  },
+  "fineTune": {
+    "message": "手動調整佈景主題設定",
+    "description": ""
+  },
+  "screenshot_notice": {
+    "message": "請點選該書籤並等待頁面顯示完全，以便擷取螢幕畫面",
+    "description": ""
+  },
+  "local_file": {
+    "message": "選取電腦內檔案",
+    "description": ""
+  },
+  "reloadDial": {
+    "message": "重整螢幕擷圖",
+    "description": ""
+  },
+  "screenshotChanged": {
+    "message": "<b>哈囉！</b> <br><br> 這個版本的螢幕擷圖系統有所變更。瀏覽器會擷取螢幕畫面，且任何網站皆可運作。<br><br>目前縮圖可能會一片空白，不過只要您訪問該網站後便會儘速更新。<br><br>若您擁有同步帳戶，您可以在設定頁面取消同步擷圖。<br><br><div style='text-align:right'>Loïc</div>",
+    "description": ""
+  },
+  "syncOptions": {
+    "message": "同步設定",
+    "description": ""
+  },
+  "allowSyncScreenshot": {
+    "message": "同步本機圖片與螢幕擷圖",
+    "description": ""
+  },
+  "showLastTab": {
+    "message": "開啟時顯示最近選取的頁籤",
+    "description": ""
+  },
+  "defaultFolder": {
+    "message": "預設資料夾圖示",
+    "description": ""
+  },
+  "addFolder": {
+    "message": "新增資料夾",
+    "description": ""
+  },
+  "sendToTop": {
+    "message": "傳送到上層資料夾",
+    "description": ""
+  },
+  "refreshForThisTab": {
+    "message": "更新此書籤的擷圖",
+    "description": ""
+  },
+  "help": {
+    "message": "幫助",
+    "description": ""
+  },
+  "general": {
+    "message": "一般",
+    "description": ""
+  },
+  "openAllDials": {
+    "message": "開啟此頁籤的所有書籤",
+    "description": ""
+  },
+  "openWallet": {
+    "message": "開啟錢包",
+    "description": ""
+  },
+  "changeAllImageType": {
+    "message": "變更此頁籤所有書籤的縮圖類型",
+    "description": ""
+  },
+  "donotchange": {
+    "message": "不要變更",
+    "description": ""
+  },
+  "widthInPercent": {
+    "message": "百分比寬度",
+    "description": ""
+  },
+  "widthInPixel": {
+    "message": "像素寬度（無法自適應）",
+    "description": ""
+  },
+  "dialtext": {
+    "message": "書籤名稱",
+    "description": ""
+  },
+  "dialtextcolor": {
+    "message": "文字顏色",
+    "description": ""
+  },
+  "dialstextbgcolor": {
+    "message": "背景色彩",
+    "description": ""
+  },
+  "addBlank": {
+    "message": "Blank space",
+    "description": ""
+  },
+  "importFromOldsd": {
+    "message": "Speeddial.uworks.net",
+    "description": ""
+  },
+  "openInBackground": {
+    "message": "在背景頁面開啟",
+    "description": ""
+  },
+  "pageHeaderAutoHide": {
+    "message": "隱藏頁籤列（滑鼠游標接近時顯示）",
+    "description": ""
+  },
+  "left_align": {
+    "message": "向左對齊",
+    "description": ""
+  },
+  "centered": {
+    "message": "置中",
+    "description": ""
+  },
+  "right_align": {
+    "message": "向右對齊",
+    "description": ""
+  },
+  "account_created":{
+    "message":"<b>Your account has been created!</b> <br><br> With this account, your bookmarks will be synced accross your devices. <br><br> Using this account is free and I will make sure that it stay like that.<br> Meanwhile, you can help me support server costs by donating.<br><br> Thanks!",
+    "description": ""
+  },
+  "ok_help":{
+    "message":"Yes I will help!",
+    "description": ""
+  },
+  "no_help":{
+    "message":"No thank, maybe later",
+    "description": ""
+  }
+}
