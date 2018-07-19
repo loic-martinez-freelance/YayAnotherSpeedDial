@@ -9,5 +9,7 @@ Existing complete translations :
 - Spanish
 - German
 - Hungarian
+- Russian
+- Chinese
 
 Every contributions to the translations are greatly appreciated and don't hesistate to tell me if you want your name in the About page of the extension.
