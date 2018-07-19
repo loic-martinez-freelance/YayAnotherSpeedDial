@@ -746,5 +746,17 @@
   "right_align":{
     "message":"Align right",
     "description": ""
+  },
+  "account_created":{
+    "message":"<b>Your account has been created!</b> <br><br> With this account, your bookmarks will be synced accross your devices. <br><br> Using this account is free and I will make sure that it stay like that.<br> Meanwhile, you can help me support server costs by donating.<br><br> Thanks!",
+    "description": ""
+  },
+  "ok_help":{
+    "message":"Yes I will help!",
+    "description": ""
+  },
+  "no_help":{
+    "message":"No thank, maybe later",
+    "description": ""
   }
 }

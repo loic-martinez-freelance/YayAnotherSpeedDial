@@ -746,5 +746,17 @@
   "right_align":{
     "message":"Aligné à droite",
     "description": ""
+  },
+  "account_created":{
+    "message":"<b>Votre compte a été créé !</b> <br><br> En utilisant ce compte, vos Bookmarks seront synchronisés entre vos appareils. <br><br> L'utilisation est totalement gratuite et je ferais en sorte qu'elle le reste.<br> En revanche, vous pouvez m'aider à supporter le coût lié à l'utilisation du serveur en faisant un don.<br><br> Merci d'avance !",
+    "description": ""
+  },
+  "ok_help":{
+    "message":"Oui je veux aider!",
+    "description": ""
+  },
+  "no_help":{
+    "message":"Non merci, peut-être plus tard",
+    "description": ""
   }
 }
