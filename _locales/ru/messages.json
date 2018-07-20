@@ -748,15 +748,15 @@
     "description": ""
   },
   "account_created":{
-    "message":"<b>Your account has been created!</b> <br><br> With this account, your bookmarks will be synced accross your devices. <br><br> Using this account is free and I will make sure that it stay like that.<br> Meanwhile, you can help me support server costs by donating.<br><br> Thanks!",
+    "message":"<b>Ваша учетная запись создана! </b> <br> <br> С этой учетной записью ваши закладки будут синхронизироваться на ваших устройствах. <br> <br> Использование этой учетной записи является бесплатным, и я буду стараться, чтобы так было и дальше. <br> Между тем, вы можете помочь мне с расходами на сервер, своим пожертвованием. <br> <br> Спасибо!",
     "description": ""
   },
   "ok_help":{
-    "message":"Yes I will help!",
+    "message":"Да, я помогу!",
     "description": ""
   },
   "no_help":{
-    "message":"No thank, maybe later",
+    "message":"Нет, может быть, позже",
     "description": ""
   }
 }
