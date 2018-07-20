@@ -8,7 +8,7 @@
     "description": ""
   },
   "speeddialAdd": {
-    "message": "加入書籤",
+    "message": "新增書籤",
     "description": ""
   },
   "defaultTab": {
@@ -24,7 +24,7 @@
     "description": ""
   },
   "inputRenameTab": {
-    "message": "改變頁籤名稱",
+    "message": "更改頁籤名稱",
     "description": ""
   },
   "inputChangeColor": {
@@ -32,7 +32,7 @@
     "description": ""
   },
   "inputChangeColorTxt": {
-    "message": "改變色彩",
+    "message": "改換色彩",
     "description": ""
   },
   "deleteTab": {
@@ -84,7 +84,7 @@
     "description": ""
   },
   "imageDialTypeScreen": {
-    "message": "螢幕擷圖",
+    "message": "擷取網頁畫面",
     "description": ""
   },
   "contextualAddTo": {
@@ -108,11 +108,11 @@
     "description": ""
   },
   "importWarning": {
-    "message": "警告！此匯入將取代目前所有設定、頁籤及書籤。確定要繼續嗎？",
+    "message": "警告！此匯入將取代目前所有設定、頁籤及書籤；確定要繼續嗎？",
     "description": ""
   },
   "resetWarning": {
-    "message": "警告！所有設定、頁籤及書籤將被刪除。確定要繼續嗎？",
+    "message": "警告！所有設定、頁籤及書籤將被刪除；確定要繼續嗎？",
     "description": ""
   },
   "applyPexels": {
@@ -140,7 +140,7 @@
     "description": ""
   },
   "times": {
-    "message": "times",
+    "message": "次",
     "description": ""
   },
   "backup": {
@@ -192,7 +192,7 @@
     "description": ""
   },
   "importFromAnother": {
-    "message": "自其他快速啟動附加元件中匯入您的頁籤及書籤",
+    "message": "從其他快速啟動附加元件中匯入您的頁籤及書籤",
     "description": ""
   },
   "importFromSP2": {
@@ -200,23 +200,23 @@
     "description": ""
   },
   "page": {
-    "message": "頁面",
+    "message": "　頁　面　",
     "description": ""
   },
   "bookmark": {
-    "message": "書籤",
+    "message": "　書　籤　",
     "description": ""
   },
   "animations": {
-    "message": "動畫",
+    "message": "　動　畫　",
     "description": ""
   },
   "advanced": {
-    "message": "進階",
+    "message": "　進　階　",
     "description": ""
   },
   "themeGallery": {
-    "message": "主題藝廊",
+    "message": "　主題藝廊　",
     "description": ""
   },
   "activateCustom": {
@@ -320,7 +320,7 @@
     "description": ""
   },
   "shape": {
-    "message": "外型",
+    "message": "外形",
     "description": ""
   },
   "width": {
@@ -396,11 +396,11 @@
     "description": ""
   },
   "selectedTabColor": {
-    "message": "已選取頁籤的顏色",
+    "message": "已選取頁籤的色彩",
     "description": ""
   },
   "hoverTabColor": {
-    "message": "游標滑入頁籤的顏色",
+    "message": "游標滑入頁籤的色彩",
     "description": ""
   },
   "textColor": {
@@ -440,11 +440,11 @@
     "description": ""
   },
   "noNName": {
-    "message": "若您不願意出現在「超棒贊助者」名單內，請維持此欄空白",
+    "message": "若不願意出現在「超棒贊助者」名單內，請維持此欄空白",
     "description": ""
   },
   "whydonate": {
-    "message": "<h5>為何需要捐獻？</h5>每筆捐款都會激勵我繼續開發此應用，並且: <br>－帶來新功能<br>－抵付伺服器開銷<br>－設計新的佈景主題",
+    "message": "<h5>為什麼要捐獻？</h5>每筆捐款都會激勵我繼續開發此應用，並且：<br>－帶來新功能<br>－抵付伺服器開銷<br>－設計新的佈景主題",
     "description": ""
   },
   "suggestions": {
@@ -452,7 +452,7 @@
     "description": ""
   },
   "suggestionsText": {
-    "message": "若您想看到某種功能、獨特的佈景主題、翻譯，或給予任何意見，別猶豫，使用下方表單傳送意見吧。",
+    "message": "如果您想看到某種功能、獨特的佈景主題、翻譯，或給予任何意見；<br>別猶豫，使用下方表單傳送意見吧。",
     "description": ""
   },
   "yourMessage": {
@@ -464,11 +464,11 @@
     "description": ""
   },
   "send": {
-    "message": "寄送",
+    "message": "送出",
     "description": ""
   },
   "suggestionOk": {
-    "message": "<div class='text-success'>感謝！您的訊息已傳送</div>",
+    "message": "<div class='text-success'>感謝！您的訊息已送出</div>",
     "description": ""
   },
   "suggestionSpam": {
@@ -616,7 +616,7 @@
     "description": ""
   },
   "imageDialTypeScreenshot": {
-    "message": "螢幕擷圖",
+    "message": "擷取網頁畫面",
     "description": ""
   },
   "addblur": {
@@ -632,7 +632,7 @@
     "description": ""
   },
   "screenshot_notice": {
-    "message": "請點選該書籤並等待頁面顯示完全，以便擷取螢幕畫面",
+    "message": "請點選該書籤並等待頁面顯示完全，以便擷取網頁畫面",
     "description": ""
   },
   "local_file": {
@@ -640,11 +640,11 @@
     "description": ""
   },
   "reloadDial": {
-    "message": "更新螢幕擷圖",
+    "message": "更新網頁擷圖",
     "description": ""
   },
   "screenshotChanged": {
-    "message": "<b>哈囉！</b> <br><br> 這個版本的螢幕擷圖系統有所變更。瀏覽器會擷取螢幕畫面，且任何網站皆可運作。<br><br>目前縮圖可能會一片空白，不過只要您訪問該網站後便會儘速更新。<br><br>若您擁有同步帳戶，您可以在設定頁面取消同步擷圖。<br><br><div style='text-align:right'>Loïc</div>",
+    "message": "<b>哈囉！</b> <br><br> 這個版本的網頁擷圖系統有所變更。瀏覽器會擷取網頁畫面，且任何網站皆可運作。<br><br>目前縮圖可能會一片空白，不過只要您訪問該網站後便會儘速更新。<br><br>若您擁有同步帳戶，您可以在設定頁面取消同步擷圖。<br><br><div style='text-align:right'>Loïc</div>",
     "description": ""
   },
   "syncOptions": {
@@ -652,7 +652,7 @@
     "description": ""
   },
   "allowSyncScreenshot": {
-    "message": "同步本機圖片與螢幕擷圖",
+    "message": "同步本機圖片與網頁縮圖",
     "description": ""
   },
   "showLastTab": {
@@ -668,11 +668,11 @@
     "description": ""
   },
   "sendToTop": {
-    "message": "傳送到上層資料夾",
+    "message": "傳送至上層資料夾",
     "description": ""
   },
   "refreshForThisTab": {
-    "message": "更新此書籤的擷圖",
+    "message": "更新此書籤的網頁擷圖",
     "description": ""
   },
   "help": {
@@ -692,7 +692,7 @@
     "description": ""
   },
   "changeAllImageType": {
-    "message": "變更此頁籤所有書籤的縮圖類型",
+    "message": "變更此頁籤所有書籤的縮圖類型　",
     "description": ""
   },
   "donotchange": {
