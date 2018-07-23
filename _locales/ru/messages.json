@@ -758,5 +758,65 @@
   "no_help":{
     "message":"Нет, может быть, позже",
     "description": ""
+  },
+  "sort_by_name":{
+    "message":"Sort by name",
+    "description": ""
+  },
+  "sort_by_rating":{
+    "message":"Sort by rating",
+    "description": ""
+  },
+  "sort_by_download":{
+    "message":"Sort by download",
+    "description": ""
+  },
+  "theme_score_set":{
+    "message":"Your score has been sent",
+    "description": ""
+  },
+  "theme_score_updated":{
+    "message":"Your score has been updated",
+    "description": ""
+  },
+  "like_theme":{
+    "message":"Do you like this theme?",
+    "description": ""
+  },
+  "share_theme_page":{
+    "message":"Share your theme",
+    "description": ""
+  },
+  "share_theme_form":{
+    "message":"Complete this form to share your theme with others.<br>Only the theme part of your backup is sent, not your bookmarks.<br> Make sure you saved your last theme modifications before sending it!",
+    "description": ""
+  },
+  "share_theme_title":{
+    "message":"A name for your theme",
+    "description": ""
+  },
+  "share_theme_name":{
+    "message":"Your name or nickname",
+    "description": ""
+  },
+  "share_theme_mail":{
+    "message":"Your email (for contact purpose only, will not be shown)",
+    "description": ""
+  },
+  "share_theme_screenshot":{
+    "message":"A screenshot for your theme",
+    "description": ""
+  },
+  "share_theme_ok":{
+    "message":"Your theme has been sent! It will be reviewed and published as soon as possible. Thank you!",
+    "description": ""
+  },
+  "share_theme_error_fields":{
+    "message":"Please fill all the required fields",
+    "description": ""
+  },
+  "share_theme_error_screenshot":{
+    "message":"Please provide a screenshot for your theme",
+    "description": ""
   }
 }

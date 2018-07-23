@@ -758,5 +758,65 @@
   "no_help":{
     "message":"Non merci, peut-être plus tard",
     "description": ""
+  },
+  "sort_by_name":{
+    "message":"Trier par nom",
+    "description": ""
+  },
+  "sort_by_rating":{
+    "message":"Trier par note",
+    "description": ""
+  },
+  "sort_by_download":{
+    "message":"Trier par téléchargement",
+    "description": ""
+  },
+  "theme_score_set":{
+    "message":"Votre score a été envoyé",
+    "description": ""
+  },
+  "theme_score_updated":{
+    "message":"Votre score a été mis à jour",
+    "description": ""
+  },
+  "like_theme":{
+    "message":"Aimez-vous ce thème ?",
+    "description": ""
+  },
+  "share_theme_page":{
+    "message":"Partagez votre thème",
+    "description": ""
+  },
+  "share_theme_form":{
+    "message":"Remplissez ce formulaire pour partager votre thème avec les autres utilisateurs.<br>Seulement la partie thème de votre sauvegarde est envoyée, pas vos bookmarks.<br> Assurez vous d'avoir enregistré vos dernières modifications avant de l'envoyer !",
+    "description": ""
+  },
+  "share_theme_title":{
+    "message":"A nom pour votre thème",
+    "description": ""
+  },
+  "share_theme_name":{
+    "message":"Votre nom ou pseudo",
+    "description": ""
+  },
+  "share_theme_mail":{
+    "message":"Votre email (pour vous contacter uniquement, ne sera pas affiché)",
+    "description": ""
+  },
+  "share_theme_screenshot":{
+    "message":"Une capture d'écran de votre thème",
+    "description": ""
+  },
+  "share_theme_ok":{
+    "message":"Votre thème a été envoyé ! Il sera vérifié et publié dès que possible. Merci !",
+    "description": ""
+  },
+  "share_theme_error_fields":{
+    "message":"Merci de remplir tous les champs requis",
+    "description": ""
+  },
+  "share_theme_error_screenshot":{
+    "message":"Merci de fournir une capture d'écran de votre thème",
+    "description": ""
   }
 }
