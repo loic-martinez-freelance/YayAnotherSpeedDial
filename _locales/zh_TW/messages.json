@@ -472,7 +472,7 @@
     "description": ""
   },
   "suggestionSpam": {
-    "message": "<div class='text-danger'>請稍待五分鐘再寄送下一則訊息。</div>",
+    "message": "<div class='text-danger'>請稍待五分鐘再傳送下一則訊息。</div>",
     "description": ""
   },
   "discardChanges": {
@@ -640,11 +640,11 @@
     "description": ""
   },
   "reloadDial": {
-    "message": "更新網頁擷圖",
+    "message": "更新網頁縮圖",
     "description": ""
   },
   "screenshotChanged": {
-    "message": "<b>哈囉！</b> <br><br> 這個版本的網頁擷圖系統有所變更。瀏覽器會擷取網頁畫面，且任何網站皆可運作。<br><br>目前縮圖可能會一片空白，不過只要您訪問該網站後便會儘速更新。<br><br>若您擁有同步帳戶，您可以在設定頁面取消同步擷圖。<br><br><div style='text-align:right'>Loïc</div>",
+    "message": "<b>哈囉！</b> <br><br> 這個版本的網頁擷圖系統有所變更。瀏覽器會擷取網頁畫面，且任何網站皆可運作。<br><br>目前縮圖可能會一片空白，不過只要您訪問該網站後便會儘速更新。<br><br>若您擁有同步帳戶，您可以在設定頁面取消同步網頁縮圖。<br><br><div style='text-align:right'>Loïc</div>",
     "description": ""
   },
   "syncOptions": {
@@ -672,7 +672,7 @@
     "description": ""
   },
   "refreshForThisTab": {
-    "message": "更新此書籤的網頁擷圖",
+    "message": "更新此書籤的網頁縮圖",
     "description": ""
   },
   "help": {
@@ -760,63 +760,63 @@
     "description": ""
   },
   "sort_by_name":{
-    "message":"Sort by name",
+    "message":"以名稱排序",
     "description": ""
   },
   "sort_by_rating":{
-    "message":"Sort by rating",
+    "message":"以評分排序",
     "description": ""
   },
   "sort_by_download":{
-    "message":"Sort by download",
+    "message":"以下載數排序",
     "description": ""
   },
   "theme_score_set":{
-    "message":"Your score has been sent",
+    "message":"您的評分已送出",
     "description": ""
   },
   "theme_score_updated":{
-    "message":"Your score has been updated",
+    "message":"您的評分已更新",
     "description": ""
   },
   "like_theme":{
-    "message":"Do you like this theme?",
+    "message":"您喜歡這個佈景主題嗎？",
     "description": ""
   },
   "share_theme_page":{
-    "message":"Share your theme",
+    "message":"分享您的佈景主題",
     "description": ""
   },
   "share_theme_form":{
-    "message":"Complete this form to share your theme with others.<br>Only the theme part of your backup is sent, not your bookmarks.<br> Make sure you saved your last theme modifications before sending it!",
+    "message":"填好這個表單，和其他人分享您的佈景主題。<br>送出的資料只有佈景主題，不包含您的書籤資料。<br>送出前，請確認您有在最後一次修改佈景主題時儲存！",
     "description": ""
   },
   "share_theme_title":{
-    "message":"A name for your theme",
+    "message":"為您的佈景主題命名",
     "description": ""
   },
   "share_theme_name":{
-    "message":"Your name or nickname",
+    "message":"您的大名或暱稱",
     "description": ""
   },
   "share_theme_mail":{
-    "message":"Your email (for contact purpose only, will not be shown)",
+    "message":"您的Email（僅供聯繫之用，不會顯示於頁面）",
     "description": ""
   },
   "share_theme_screenshot":{
-    "message":"A screenshot for your theme",
+    "message":"您的佈景主題預覽",
     "description": ""
   },
   "share_theme_ok":{
-    "message":"Your theme has been sent! It will be reviewed and published as soon as possible. Thank you!",
+    "message":"您的佈景主題已送出！我們會儘快檢閱與發布主題。謝謝您！",
     "description": ""
   },
   "share_theme_error_fields":{
-    "message":"Please fill all the required fields",
+    "message":"請填寫所有必要欄位",
     "description": ""
   },
   "share_theme_error_screenshot":{
-    "message":"Please provide a screenshot for your theme",
+    "message":"請為您的佈景主題提供預覽圖",
     "description": ""
   }
 }
