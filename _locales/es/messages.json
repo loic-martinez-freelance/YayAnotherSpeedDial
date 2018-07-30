@@ -748,79 +748,79 @@
     "description": ""
   },
   "account_created":{
-    "message":"<b>Your account has been created!</b> <br><br> With this account, your bookmarks will be synced accross your devices. <br><br> Using this account is free and I will make sure that it stay like that.<br> Meanwhile, you can help me support server costs by donating.<br><br> Thanks!",
+    "message":"<b>¡Tu cuenta ha sido creada!</b> <br><br> Con ella tus marcadores podrán ser sincronizados con cualquier dispositivo. <br><br> El uso de la cuenta es totalmente gratuito y me aseguraré de que así sea siempre.<br> Si deseas ayudarme a cubrir los costos del servidor, puedes hacerlo enviando una donación.<br><br> ¡Gracias!",
     "description": ""
   },
   "ok_help":{
-    "message":"Yes I will help!",
+    "message":"¡Si, deseo ayudar!",
     "description": ""
   },
   "no_help":{
-    "message":"No thank, maybe later",
+    "message":"No, gracias. Quizás después.",
     "description": ""
   },
   "sort_by_name":{
-    "message":"Sort by name",
+    "message":"Ordenar por nombre",
     "description": ""
   },
   "sort_by_rating":{
-    "message":"Sort by rating",
+    "message":"Ordenar por puntuación",
     "description": ""
   },
   "sort_by_download":{
-    "message":"Sort by download",
+    "message":"Ordenar por descargas",
     "description": ""
   },
   "theme_score_set":{
-    "message":"Your score has been sent",
+    "message":"Tu puntuación ha sido enviada",
     "description": ""
   },
   "theme_score_updated":{
-    "message":"Your score has been updated",
+    "message":"Tu puntuación ha sido actualizada",
     "description": ""
   },
   "like_theme":{
-    "message":"Do you like this theme?",
+    "message":"¿Te gusta este tema?",
     "description": ""
   },
   "share_theme_page":{
-    "message":"Share your theme",
+    "message":"Comparte tu tema",
     "description": ""
   },
   "share_theme_form":{
-    "message":"Complete this form to share your theme with others.<br>Only the theme part of your backup is sent, not your bookmarks.<br> Make sure you saved your last theme modifications before sending it!",
+    "message":"Completa este formulario para compartir tu tema con los demás.<br> Sólo el tema será compartido. Ninguno de tus marcadores será enviado.<br> ¡Asegurate de haber salvado las modificaciones a tu tema antes de enviarlo!",
     "description": ""
   },
   "share_theme_title":{
-    "message":"A name for your theme",
+    "message":"Nombre de tu tema",
     "description": ""
   },
   "share_theme_name":{
-    "message":"Your name or nickname",
+    "message":"Tu nombre o apodo",
     "description": ""
   },
   "share_theme_mail":{
-    "message":"Your email (for contact purpose only, will not be shown)",
+    "message":"Tu mail (Sólo para contacto. Tu mail no sera mostrado públicamente.)",
     "description": ""
   },
   "share_theme_screenshot":{
-    "message":"A screenshot for your theme",
+    "message":"Una captura de pantalla de tu tema",
     "description": ""
   },
   "share_theme_ok":{
-    "message":"Your theme has been sent! It will be reviewed and published as soon as possible. Thank you!",
+    "message":"¡Tu tema ha sido enviado. Será evaluado y publicado a la brevedad! ¡Muchas gracias!",
     "description": ""
   },
   "share_theme_error_fields":{
-    "message":"Please fill all the required fields",
+    "message":"Por favor llena todos los campos requeridos",
     "description": ""
   },
   "share_theme_error_screenshot":{
-    "message":"Please provide a screenshot for your theme",
+    "message":"Por favor envía una captura de pantalla de tu tema",
     "description": ""
   },
   "importFromFVD_note": {
-    "message": "Please paste here the result of the export from Speed Dial [FVD]",
+    "message": "Por favor pega aquí el resultado de la exportación de Speed Dial [FVD]",
     "description": ""
   }
 }
