@@ -3,7 +3,7 @@
     "message": "Yay! Another Speed dial!"
   },
   "extensionDescription": {
-    "message": "Eine coole und höchst anpassbare Speed Dial Erweiterung, fokusiert auf Aussehen und Einfachheit."
+    "message": "Eine coole und höchst anpassbare Speed Dial Erweiterung, fokussiert auf Aussehen und Einfachheit."
   },
   "speeddialAdd": {
     "message": "Lesezeichen hinzufügen"
@@ -81,10 +81,10 @@
     "message": "Zurück"
   },
   "importWarning": {
-    "message": "Warnung, der Import wird alle Einstellungen, Tabs und Lesezeichen ersetzen. Fortfahren?"
+    "message": "Warnung! Der Import wird alle Einstellungen, Tabs und Lesezeichen ersetzen. Fortfahren?"
   },
   "resetWarning": {
-    "message": "Warnung, alle Einstellungen, Tabs und Lesezeichen werden gelöscht. Fortfahren?"
+    "message": "Warnung! Alle Einstellungen, Tabs und Lesezeichen werden gelöscht. Fortfahren?"
   },
   "applyPexels": {
     "message": "PEXELS Bild anwenden"
@@ -321,7 +321,7 @@
     "message": "Bild suchen"
   },
   "openInTab": {
-    "message": "Lesezeichen in einem anderen Tab öffnen"
+    "message": "Lesezeichen in einem neuen Tab öffnen"
   },
   "contribute": {
     "message": "Mich unterstützen!"
@@ -330,10 +330,10 @@
     "message": "Dein Name"
   },
   "noNName": {
-    "message": "Leer lassen, wenn du nicht in der Beste Spenderliste eingetragen werden willst"
+    "message": "Leer lassen, wenn du nicht in die Spenderliste eingetragen werden willst"
   },
   "whydonate": {
-    "message": "<h5>Warum Spenden?</h5>Jede Spende wird mich dazu motivieren die Entwicklung fortzusetzen. Aber auch: <br> - Entwicklung neuer Funktionen<br> - Deckung der Serverkosten<br> - Erstellung neuer Themes"
+    "message": "<h5>Warum Spenden?</h5>Jede Spende wird mich dazu motivieren die Entwicklung fortzusetzen, aber auch zur: <br> - Entwicklung neuer Funktionen<br> - Deckung der Serverkosten<br> - Erstellung neuer Themes"
   },
   "suggestions": {
     "message": "Kontaktieren"
@@ -351,7 +351,7 @@
     "message": "Senden"
   },
   "suggestionOk": {
-    "message": "<div class='text-success'>Danke ! Deine Nachricht wurde gesendet</div>"
+    "message": "<div class='text-success'>Danke! Deine Nachricht wurde gesendet</div>"
   },
   "suggestionSpam": {
     "message": "<div class='text-danger'>Warte 5 Minuten um eine weitere Nachricht senden zu können.</div>"
@@ -366,10 +366,10 @@
     "message": "Nein"
   },
   "bestContributors": {
-    "message": "Beste Spender"
+    "message": "Höchste Spenden"
   },
   "freeAmount": {
-    "message": "Freier Beitrag"
+    "message": "Freier Betrag"
   },
   "username": {
     "message": "E-Mail"
@@ -474,7 +474,7 @@
     "message": "Theme Einstellungen manuell ändern"
   },
   "screenshot_notice": {
-    "message": "Bitte auf das Lesezeichen klicken und warten bis es voll geladen ist um ein Bildschirmfoto aufzunehmen."
+    "message": "Bitte auf das Lesezeichen klicken und warten bis es voll geladen ist, um ein Bildschirmfoto aufzunehmen."
   },
   "local_file": {
     "message": "Eine Datei auf meinem Computer"
@@ -565,78 +565,78 @@
   },
   "account_created":{
     "message":"<b>Your account has been created!</b> <br><br> With this account, your bookmarks will be synced accross your devices. <br><br> Using this account is free and I will make sure that it stay like that.<br> Meanwhile, you can help me support server costs by donating.<br><br> Thanks!",
-    "description": ""
+    "description": "<b>Dein Account wurde erstellt!</b> <br><br> Mit diesem Account werden die Lesezeichen auf verschiedene Geräte synchronisiert. <br><br> Die Nutzung des Accounts ist gratis und ich werde dafür sorgen, dass es so bleibt.<br> Durch eine Spende könntest du zu den Serverkosten beitragen.<br><br> Danke!""
   },
   "ok_help":{
     "message":"Yes I will help!",
-    "description": ""
+    "description": "Ja, ich werde helfen!"
   },
   "no_help":{
     "message":"No thank, maybe later",
-    "description": ""
+    "description": "Nein danke, vielleicht später"
   },
   "sort_by_name":{
     "message":"Sort by name",
-    "description": ""
+    "description": "Nach Namen sortieren"
   },
   "sort_by_rating":{
     "message":"Sort by rating",
-    "description": ""
+    "description": "Nach Rating sortieren"
   },
   "sort_by_download":{
     "message":"Sort by download",
-    "description": ""
+    "description": "Nach Downloads sortieren"
   },
   "theme_score_set":{
     "message":"Your score has been sent",
-    "description": ""
+    "description": "Deine Bewertung wurde gesendet "
   },
   "theme_score_updated":{
     "message":"Your score has been updated",
-    "description": ""
+    "description": "Deine Bewertung wurde aktualisiert"
   },
   "like_theme":{
     "message":"Do you like this theme?",
-    "description": ""
+    "description": "Gefällt dir dieses Theme?"
   },
   "share_theme_page":{
     "message":"Share your theme",
-    "description": ""
+    "description": "Teile dein Theme"
   },
   "share_theme_form":{
     "message":"Complete this form to share your theme with others.<br>Only the theme part of your backup is sent, not your bookmarks.<br> Make sure you saved your last theme modifications before sending it!",
-    "description": ""
+    "description": "Vervollständige dieses Formular um dein Theme mit anderen zu teilen.<br>Nur das Theme deines Backups wird gesendet, nicht deine Lesezeichen.<br> Stelle sicher, dass du die letzten Modifikationen am Theme gespeichert hast, bevor du es absendest!"
   },
   "share_theme_title":{
     "message":"A name for your theme",
-    "description": ""
+    "description": "Ein Name für das Theme"
   },
   "share_theme_name":{
     "message":"Your name or nickname",
-    "description": ""
+    "description": "Dein Name oder Nickname"
   },
   "share_theme_mail":{
     "message":"Your email (for contact purpose only, will not be shown)",
-    "description": ""
+    "description": "Deine E-Mail (nur für Kontaktzwecke, wird nicht angezeigt)"
   },
   "share_theme_screenshot":{
     "message":"A screenshot for your theme",
-    "description": ""
+    "description": "Ein Bildschirmfoto des Themes"
   },
   "share_theme_ok":{
     "message":"Your theme has been sent! It will be reviewed and published as soon as possible. Thank you!",
-    "description": ""
+    "description": "Dein Theme wurde gesendet! Es wird überprüft und so schnell wie möglich veröffentlicht. Danke!"
   },
   "share_theme_error_fields":{
     "message":"Please fill all the required fields",
-    "description": ""
+    "description": "Bitte fülle alle nötigen Felder aus"
   },
   "share_theme_error_screenshot":{
     "message":"Please provide a screenshot for your theme",
-    "description": ""
+    "description": "Bitte füge ein Bildschirmfoto für das Theme hinzu"
   },
   "importFromFVD_note": {
     "message": "Please paste here the result of the export from Speed Dial [FVD]",
-    "description": ""
+    "description": "Bitte füge hier die Ergebnisse des Exports von Speed Dial [FVD] ein"
   }
 }
