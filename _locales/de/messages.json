@@ -553,15 +553,12 @@
   },
   "left_align":{
     "message":"Linksbündig",
-    "description": ""
   },
   "centered":{
     "message":"Zentriert",
-    "description": ""
   },
   "right_align":{
     "message":"Rechtsbündig",
-    "description": ""
   },
   "account_created":{
     "message":"<b>Your account has been created!</b> <br><br> With this account, your bookmarks will be synced accross your devices. <br><br> Using this account is free and I will make sure that it stay like that.<br> Meanwhile, you can help me support server costs by donating.<br><br> Thanks!",
