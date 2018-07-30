@@ -760,67 +760,67 @@
     "description": ""
   },
   "sort_by_name":{
-    "message":"Sort by name",
+    "message":"Сортировать по названию",
     "description": ""
   },
   "sort_by_rating":{
-    "message":"Sort by rating",
+    "message":"Сортировать по рейтингу",
     "description": ""
   },
   "sort_by_download":{
-    "message":"Sort by download",
+    "message":"Сортировать по загрузкам",
     "description": ""
   },
   "theme_score_set":{
-    "message":"Your score has been sent",
+    "message":"Ваша оценка отправлена",
     "description": ""
   },
   "theme_score_updated":{
-    "message":"Your score has been updated",
+    "message":"Ваша оценка была обновлена",
     "description": ""
   },
   "like_theme":{
-    "message":"Do you like this theme?",
+    "message":"Вам нравится эта тема?",
     "description": ""
   },
   "share_theme_page":{
-    "message":"Share your theme",
+    "message":"Поделиться своей темой",
     "description": ""
   },
   "share_theme_form":{
-    "message":"Complete this form to share your theme with others.<br>Only the theme part of your backup is sent, not your bookmarks.<br> Make sure you saved your last theme modifications before sending it!",
+    "message":"Заполните эту форму, чтобы поделиться своей темой с другими. <br> Отправляется только тема вашей экспресс-панели, ваши закладки не отправляются. <br> Перед отправкой убедитесь, что вы сохранили свои последние изменения в теме!",
     "description": ""
   },
   "share_theme_title":{
-    "message":"A name for your theme",
+    "message":"Название вашей темы",
     "description": ""
   },
   "share_theme_name":{
-    "message":"Your name or nickname",
+    "message":"Ваше имя или псевдоним",
     "description": ""
   },
   "share_theme_mail":{
-    "message":"Your email (for contact purpose only, will not be shown)",
+    "message":"Ваш адрес электронной почты (только для контактной связи, не отображается)",
     "description": ""
   },
   "share_theme_screenshot":{
-    "message":"A screenshot for your theme",
+    "message":"Скриншот вашей темы",
     "description": ""
   },
   "share_theme_ok":{
-    "message":"Your theme has been sent! It will be reviewed and published as soon as possible. Thank you!",
+    "message":"Ваша тема отправлена! Она будет рассмотрена и опубликована как можно скорее. Спасибо!",
     "description": ""
   },
   "share_theme_error_fields":{
-    "message":"Please fill all the required fields",
+    "message":"Пожалуйста, заполните все обязательные поля",
     "description": ""
   },
   "share_theme_error_screenshot":{
-    "message":"Please provide a screenshot for your theme",
+    "message":"Предоставьте скриншот для вашей темы",
     "description": ""
   },
   "importFromFVD_note": {
-    "message": "Please paste here the result of the export from Speed Dial [FVD]",
+    "message": "Пожалуйста, вставьте здесь результат экспорта из Speed Dial [FVD]",
     "description": ""
   }
 }
