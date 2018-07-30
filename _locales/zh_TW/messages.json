@@ -818,5 +818,9 @@
   "share_theme_error_screenshot":{
     "message":"請為您的佈景主題提供預覽圖",
     "description": ""
+  },
+  "importFromFVD_note": {
+    "message": "Please paste here the result of the export from Speed Dial [FVD]",
+    "description": ""
   }
 }
