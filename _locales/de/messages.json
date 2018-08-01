@@ -552,13 +552,13 @@
     "message": "Tab Leiste ausblenden (anzeigen bei Annäherung mit Maus)"
   },
   "left_align":{
-    "message":"Linksbündig"
+    "message": "Linksbündig"
   },
   "centered":{
-    "message":"Zentriert"
+    "message": "Zentriert"
   },
   "right_align":{
-    "message":"Rechtsbündig"
+    "message": "Rechtsbündig"
   },
   "account_created":{
     "message": "<b>Dein Account wurde erstellt!</b> <br><br> Mit diesem Account werden die Lesezeichen auf verschiedene Geräte synchronisiert. <br><br> Die Nutzung des Accounts ist gratis und ich werde dafür sorgen, dass es so bleibt.<br> Durch eine Spende könntest du zu den Serverkosten beitragen.<br><br> Danke!""
