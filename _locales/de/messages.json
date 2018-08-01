@@ -561,7 +561,7 @@
     "message": "Rechtsbündig"
   },
   "account_created":{
-    "message": "<b>Dein Account wurde erstellt!</b> <br><br> Mit diesem Account werden die Lesezeichen auf verschiedene Geräte synchronisiert. <br><br> Die Nutzung des Accounts ist gratis und ich werde dafür sorgen, dass es so bleibt.<br> Durch eine Spende könntest du zu den Serverkosten beitragen.<br><br> Danke!""
+    "message": "<b>Dein Account wurde erstellt!</b> <br><br> Mit diesem Account werden die Lesezeichen auf verschiedene Geräte synchronisiert. <br><br> Die Nutzung des Accounts ist gratis und ich werde dafür sorgen, dass es so bleibt.<br> Durch eine Spende könntest du zu den Serverkosten beitragen.<br><br> Danke!"
   },
   "ok_help":{
     "message": "Ja, ich werde helfen!"
